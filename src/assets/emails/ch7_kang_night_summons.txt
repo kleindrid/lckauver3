@@ -1,0 +1,20 @@
+id: ch7-kang-night-summons-mail
+type: inbox
+from: Inspector Kang Minhyeok · GGPD
+email: kang.minhyeok@ggpd.gov.kr
+subject: CONFIDENTIAL — Precinct Meet Tonight (Escort Inbound)
+preview: Meet me at the precinct tonight. An unmarked unit will escort you in—we pulled the McDonald's and nearby CCTV and caught suspect movement.
+time: 19:56
+unread: true
+body: Officer Lee Sanghyeok,
+
+Meet me at precinct headquarters tonight—keep your door quiet until my team signals outside. I am sending an unmarked unit near Dorm 304 to pick you up and escort you straight into the briefing wing so no one sees you leaving with us.
+
+We have a lot of work ahead of us overnight, and for now everything about this operation stays strictly confidential.
+
+We just secured the security camera footage from that McDonald's along with CCTV recordings from several nearby businesses in the area. There is clear movement involving our suspects on those tapes, and I need you reviewing the footage with me tonight.
+
+Stay alert and wait for our pickup signal.
+
+Inspector Kang Minhyeok
+Special Investigation Unit · Gyeong-gwan

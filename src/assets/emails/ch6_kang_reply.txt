@@ -1,0 +1,18 @@
+id: ch6-kang-reply-mail
+type: inbox
+from: Inspector Kang Minhyeok · GGPD
+email: kang.minhyeok@ggpd.gov.kr
+subject: Re: Confidential: Secret Records on Wangho's Lost Brother
+preview: I checked with colleagues and sealed files—there is nothing beyond what's published. About the woman who came in yesterday...
+time: 15:10
+unread: true
+body: Officer Lee Sanghyeok,
+
+I checked our sealed archives and asked colleagues who worked the station back then. Neither I nor anyone else here has any confidential information on Han Wangho's lost brother beyond what has already been published.
+
+As for the woman who came into the precinct trying to file a restraining order against Wangho—she stated that he has been following her family around, repeatedly asking for a DNA test and trying to convince them of his theory.
+
+Keep him away from them before she gets that order granted. Remember that our absolute priority right now is identifying the killer before another victim turns up. Stay focused on the dorm.
+
+Inspector Kang Minhyeok
+Special Investigation Unit · Gyeong-gwan

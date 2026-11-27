@@ -1,0 +1,17 @@
+id: e1
+type: inbox
+category: initial
+order: 1
+from: Gyeong-gwan University
+email: registrar@gguniv.edu
+subject: Enrollment & Dormitory Placement Confirmed — Lee S.
+preview: Your transfer enrollment and single-room assignment at Dorm 304 have been finalized.
+time: 02:15
+unread: true
+body: Dear Lee S.,
+
+Your transfer enrollment for the current semester and room assignment at Dorm 304 are confirmed.
+
+Please note that due to increased nighttime patrols, main residence gates lock at 22:00.
+
+Office of Student Affairs · Gyeong-gwan
