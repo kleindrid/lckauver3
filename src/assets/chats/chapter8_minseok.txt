@@ -1,0 +1,22 @@
+Chapter: 8
+Trigger: default
+Order: 1
+Id: minseok
+Name: Minseok
+Subtitle: @minseok_keria
+Number: +82 10-6821-4900
+Avatar: minseok
+Unread: 1
+
+sender: them
+time: 08:15
+text: Sanghyeok... can you bring my things to the university campus this morning? I feel much safer there than at home right now.
+
+sender: me
+time: 08:16
+text: Yes, of course. I'll pack everything up and head over to the campus courtyard this morning. Stay safe until I get there.
+
+sender: them
+time: 08:17
+delay: 2800
+text: Thank you so much... let me know when you arrive near the gate.

@@ -1,0 +1,11 @@
+id: jihoon
+name: Jung Jihoon
+age: 25
+role: Student
+residence: Seongnam Side-Street House
+attendedParty: true
+status: alive
+alibi: Spent the entire party staying close to his friend Suhwan, helping him talk to someone he was interested in. Claims he never saw Minhyung or wasn't paying attention to him.
+interrogationSummary: Cooperative and focused. Repeatedly emphasized that his attention was entirely on Suhwan throughout the night rather than the rest of the guests.
+detectiveNotes: Needs cross-checking with Suhwan's statement to confirm they never separated.
+

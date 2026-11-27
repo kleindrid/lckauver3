@@ -1,0 +1,31 @@
+id: unknown
+chapter: 4
+order: 0
+trigger: ch4_x_investigated
+name: Unknown Number
+subtitle: Unknown
+number: +82 10-0000-0404
+avatar: unknown
+unread: 2
+
+---
+sender: them
+time: 14:15
+initial: true
+text: Hello, can we talk?
+---
+sender: them
+time: 14:15
+initial: true
+text: We dont know each other yet. 
+
+---
+sender: me
+time: 14:16
+text: Who is this? How do you have this number?
+
+---
+sender: them
+time: 14:17
+delay: 4200
+text: I'm someone Kang Minhyeok knows. Can we meet up? 

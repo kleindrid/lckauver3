@@ -1,0 +1,19 @@
+id: mingyu
+name: Ju Mingyu
+age: 24
+role: Student 
+residence: University Off-Campus Flats
+attendedParty: true
+status: alive
+alibi: Spent most of the night by the indoor speakers and patio bar.
+interrogationSummary: Calm but distracted. Said Siwoo disappeared from the living room for at least thirty minutes after midnight.
+detectiveNotes: Indirectly revealed a gap in Siwoo's timeline. Appears genuinely rattled by Minhyung's death. Mingyu’s posts he dreamed of making part of the band ‘AllStar’ but he was never accepted in. 
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:18
+title: Roommate Timeline Gap
+text: Noted his roommate has been acting strange for weeks. 
+
+
+

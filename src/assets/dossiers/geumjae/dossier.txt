@@ -1,0 +1,25 @@
+id: geumjae
+name: Geumjae
+age: 20
+job: student
+residence: Gyeong-gwan Old District
+attendedParty: false
+status: alive
+alibi: Stayed home unpacking boxes; heard sirens on the ridge road early Saturday morning.
+interrogationSummary: Anxious first-year resident with no prior links. Only recently arrived in Gyeong-gwan.
+detectiveNotes: Shares exact age (20) matching the timeline of the infant abducted in 2008. Worth quiet background verification.
+
+---
+chapter: 6
+trigger: ch6_wangho_geumjae
+time: Oct 26 · 10:52
+title: Wangho Claim & Mother's Precinct Complaint
+text: Han Wangho is convinced Geumjae is his abducted infant brother from 2008, citing matching age and neighborhood timelines. Geumjae's mother sought a restraining order at the precinct to keep Wangho away; Sanghyeok advised Wangho to respect Geumjae's choice if he refuses contact.
+
+---
+chapter: 6
+trigger: ch6_missing_baby_archive
+time: Oct 26 · 10:56
+title: Online Registry Match — Irregular November 2008 Birth Filing
+text: Searching "2008 missing children south korea" revealed Cold Case #GG-0814 and an archived forum lead linking a delayed November 2008 birth registration—and a former Old District household worker who returned this semester—to the abducted Han infant. Geumjae's adoptive mother is now flagged for priority verification.
+

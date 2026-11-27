@@ -1,0 +1,43 @@
+id: tenente
+chapter: 3
+order: 1
+trigger: minhyung_news
+name: Chief Lieutenant
+subtitle: Command · Gyeong-gwan Police Dept.
+number: +82 10-4402-0100
+avatar: police
+unread: 1
+
+---
+sender: them
+time: 10:22
+initial: true
+text: Sanghyeok, you saw the report on Lee Minhyung. His body was dumped in the woods behind Dohyeon's house right after the party.
+
+---
+sender: them
+time: 10:22
+initial: true
+text: We are bringing in everyone who attended Dohyeon's party for formal questioning today, including you.
+
+---
+sender: me
+time: 10:23
+text: Understood. Should I break cover at the station or wait for your signal?
+
+---
+sender: them
+time: 10:24
+delay: 5000
+text: Stay strictly in character as a transfer student. It's critical you show up with everyone else to keep up appearances, if you skip questioning the killer will suspect you immediately.
+
+---
+sender: me
+time: 10:25
+text: Got it. I'll head in for the statement with the others and act shaken like everyone else.
+
+---
+sender: them
+time: 10:26
+delay: 5500
+text: Good. As soon as questioning wraps up tonight, I'll send a classified file directly to your phone with the full interrogation dossier on everyone questioned. Keep your head down until then.

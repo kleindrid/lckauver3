@@ -1,0 +1,19 @@
+id: hyungseok
+name: Moon Hyunjoon
+age: 22
+role: Student
+residence: Dorm 304 · Seongnam-ro
+attendedParty: true
+status: alive
+alibi: Claims he kept watch near the front hallway of Dohyeon's villa and walked back to Dorm 304 around 02:00.
+interrogationSummary: Defensive throughout questioning. Accused Lee Sanghyeok of hiding secrets inside the republic instead of focusing on the questions.
+detectiveNotes: Nothing to add.
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:20
+title: Statement Regarding Lee Minhyung
+text: Claims Minhyung left the main floor alone after taking a phone call shortly after midnight.
+
+
+

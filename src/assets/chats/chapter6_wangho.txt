@@ -1,0 +1,50 @@
+id: unknown
+chapter: 6
+order: 2
+name: Han Wangho
+subtitle: Verified Contact · Protected Ally
+number: +82 10-0000-0404
+avatar: wangho
+unread: 0
+
+---
+sender: them
+time: 16:43
+initial: true
+text: Han Wangho. Did Inspector Kang finally reach out to you?
+
+---
+sender: me
+time: 16:44
+initial: true
+text: That checks out. Listen, I have a meeting at the police office first, so I can't leave right now. Can we meet later tonight at the bistro?
+
+---
+sender: them
+time: 16:45
+initial: true
+text: That works for me. I'll wait at the bistro, message me once your meeting at the police office wraps up.
+
+---
+sender: me
+time: 23:00
+initial: true
+text: Who was that guy at the bistro? The one who walked up calling you hyung—did he hear anything we talked about?
+
+---
+sender: them
+time: 23:10
+initial: true
+text: Sorry for taking so long to reply, I just got back to my place. That was Wooje—we're close friends, don't worry. He moved here about three years ago to study and isn't close with his family, so we grew close when I was his senior in college. Honestly we do everything together like brothers. He's just a little clingy, he didn't hear anything.
+
+---
+sender: me
+time: 23:11
+initial: true
+text: Just keep your guard up around him, Wangho. Even someone close can notice more than you think.
+
+---
+sender: them
+time: 23:12
+initial: true
+text: I hear how that sounds, Sanghyeok. Just trust me on Wooje. I know him better than anyone. Stay safe.

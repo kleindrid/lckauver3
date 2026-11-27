@@ -1,0 +1,32 @@
+id: minseok
+name: Ryu Minseok 
+age: 24
+role: Student 
+residence: Seongnam Side-Street House
+attendedParty: true
+status: alive
+alibi: Briefly dropped by Dohyeon's gate with friends around 22:30, then returned home before midnight.
+interrogationSummary: Cooperative and visibly anxious after learning about Lee Minhyung. Confirmed the music and backyard lights made the treeline completely dark.
+detectiveNotes: Phone tower ping places him back near his house before 00:05. Has no links to 2008.
+
+---
+chapter: 4
+trigger: ch4_hyunjun_clue
+time: 08:48
+title: Ch. 04 Lead — Close Classmate of Lee Minhyung
+text: Hyunjun revealed that Ryu Minseok was in the same lecture classes as Lee Minhyung and that the two were always seen together between classes. Investigate Minseok's recent timeline and connections on X alongside Son Siwoo.
+
+---
+chapter: 6
+trigger: ch6_kyu_doorstep
+time: 17:45
+title: Ch. 06 Update — Missing for Two Days
+text: Housemate Kim Hyukkyu (Kyu) revealed that Minseok has been missing for two days following an intense fight between them. Kyu suspects Minseok fled with Kwanghee and does not know where he is or if he will return.
+
+---
+chapter: 7
+trigger: ch7_minseok_statement
+time: Oct 27 · 09:42
+title: Ch. 07 Update — Survivor Statement at Precinct
+text: Reappeared alive at GGPD on Tuesday morning after wandering lost in the forest since Sunday night. Testified that the masked Rabbit abducted him at ~22:00 from the Seongnam house, tied him in an abandoned house, and confronted Kwanghee at gunpoint. Minseok wrenched the revolver free for Kwanghee before fleeing on Kwanghee's orders as six gunshots rang out.
+

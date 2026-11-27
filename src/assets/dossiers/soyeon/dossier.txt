@@ -1,0 +1,22 @@
+id: soyeon
+name: Kang Soyeon
+age: 21
+role: Fine Arts Senior · Party Guest
+residence: Campus Flats · East Courtyard (Bldg B)
+attendedParty: true
+status: alive
+alibi: Arrived at Dohyeon's villa around 22:30 with her sketchbook club friends; shared a taxi back to Campus Flats Bldg B at 01:05.
+interrogationSummary: Stated she stepped onto the rear terrace for air around 23:50 and noticed Siwoo arguing quietly near the coat hall before walking outside. Confirmed the side garden gate latch had been tied open earlier for smoking guests.
+detectiveNotes: Consistent with taxi receipt timestamp. Follow up on whether anyone followed Minhyung toward the rear hedge after 00:30.
+
+---
+if_dead: minhyung
+time: Oct 24 · 21:10
+title: Terrace Timeline Statement
+text: Provided a time-stamped photo taken from the upstairs balcony at 23:44 showing Minhyung standing near the patio speaker before the music cut briefly.
+
+---
+chapter: 4
+time: Oct 25 · 11:20
+title: Campus Flats Check-In
+text: Reported seeing extra campus patrol cars parked outside Bldg B after news of the Chief Lieutenant's murder broke; planning to stay indoors with roommates.

@@ -1,0 +1,37 @@
+id: unknown
+chapter: 5
+order: 1
+trigger: ch5_wangho_mail_read
+name: Unknown Number
+subtitle: Unverified Contact
+number: +82 10-0000-0404
+avatar: unknown
+unread: 1
+
+---
+sender: them
+time: 16:42
+initial: true
+text: Did you think it over? We shouldn't talk here for long, can you meet tonight?
+
+---
+sender: me
+time: 16:43
+text: Before anything else, tell me your name. 
+
+---
+sender: them
+time: 16:43
+delay: 3200
+text: Han Wangho. Did Inspector Kang finally reached out to you?
+
+---
+sender: me
+time: 16:44
+text: That checks out. Listen, I have a meeting at the police office first, so I can't leave right now. Can we meet later tonight at the bistro?
+
+---
+sender: them
+time: 16:45
+delay: 3400
+text: That works for me. I'll wait at the bistro, message me once your meeting at the police office wraps up.

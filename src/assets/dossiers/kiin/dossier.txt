@@ -1,0 +1,19 @@
+id: kiin
+name: Kim Kiin
+age: 26
+role: Investigative Journalist
+residence: Downtown Gyeong-gwan Press Loft
+attendedParty: false
+status: alive
+alibi: Worked late at the press office cross-referencing 2008 precinct archive files; verified by building keycard access at 00:42.
+interrogationSummary: Turned the tables during questioning, pressing officers on why the 2008 evidence locker breach remained covered up until the AllStar fire.
+detectiveNotes: Actively investigating the missing rabbit costume and the 2008 abduction. Holds independent copies of old press clippings.
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:25
+title: Press Inquiry Flag
+text: Already contacted precinct press desk requesting confirmation on whether Minhyung's murder shares signature marks with the 2008 rabbit killings.
+
+
+

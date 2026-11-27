@@ -1,0 +1,17 @@
+id: minhyung
+name: Lee Minhyung
+age: 24
+role: Student
+residence: Dorm 304 · Seongnam-ro
+attendedParty: true
+status: Dead
+deadFromChapter: 3
+alibi: Left Dorm 304 before nightfall; failed to return after Dohyeon's party.
+interrogationSummary: Victim — body discovered in the wooded slope behind Dohyeon's residence on Saturday morning.
+detectiveNotes: Cause of death seem to be blunt trauma.
+
+---
+if_dead: minhyung
+time: Oct 24 · 19:30
+title: Forensics & Post-Mortem Note
+text: Confirmed deceased near Dohyeon's villa. Time of death estimated between 00:30 and 02:30 during the party. Phone and transit maps recovered by precinct forensics. 

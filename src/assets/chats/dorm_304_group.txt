@@ -1,0 +1,122 @@
+id: republica
+chapter: 1, 2, 3
+order: 3
+name: Dorm 304 (Group)
+subtitle: Lee Sanghyeok, Hyunjun, Moon, Lee Minhyung
+number: +82 10-3304-0000
+avatar: dorm304
+unread: 1
+
+# Dorm 304 carefree banter before Hyunjun brings up the AllStar garage fire
+
+---
+sender: them
+senderName: Moon
+time: 02:41
+initial: true
+text: okay who finished the last carton of milk and put the empty box back inside the fridge
+
+---
+sender: them
+senderName: Hyunjun
+time: 02:42
+initial: true
+text: don't look at me, I've been suffering over macroeconomics slides since 10
+
+---
+sender: them
+senderName: Lee Minhyung
+time: 02:42
+initial: true
+text: technically there were like three drops left so it wasn't empty
+
+---
+sender: them
+senderName: Moon
+time: 02:43
+initial: true
+text: three drops doesn't make iced coffee, Minhyung.
+
+---
+sender: them
+senderName: Lee Minhyung
+time: 02:44
+initial: true
+text: you're up at 2:40 AM drinking iced coffee anyway, I'm doing your heart a favor
+
+---
+sender: them
+senderName: Hyunjun
+time: 02:45
+initial: true
+text: wait did one of you also steal my spicy ramen cup from the top shelf or am I hallucinating
+
+---
+sender: them
+senderName: Lee Minhyung
+time: 02:46
+initial: true
+text: ...maybe? editing my vlog took six hours and my brain needed sodium
+
+---
+sender: them
+senderName: Moon
+time: 02:47
+initial: true
+text: unbelievable. tomorrow you're buying fried chicken for the whole room, no excuses
+
+---
+sender: them
+senderName: Lee Minhyung
+time: 02:48
+initial: true
+text: fine, fine, spicy boneless if you guys actually subscribe to my channel
+
+---
+sender: them
+senderName: Hyunjun
+time: 02:49
+initial: true
+text: bro nobody is subscribing for a 20-minute montage of you adjusting a tripod
+
+---
+sender: them
+senderName: Hyunjun
+time: 02:51
+initial: true
+text: wait... hey, did you guys just see the news about the fire at AllStar's rehearsal garage?
+
+---
+sender: them
+senderName: Moon
+time: 02:53
+initial: true
+text: ...yeah. saw the sirens heading down that way earlier.
+
+---
+sender: them
+senderName: Lee Minhyung
+time: 02:54
+initial: true
+text: isn't that the band everyone from campus used to go watch? why are people saying it wasn't an accident...
+
+---
+sender: them
+senderName: Hyunjun
+time: 02:55
+initial: true
+text: idk, the report mentioned that old 2008 case too. kind of creeps me out honestly.
+
+---
+sender: them
+senderName: Moon
+time: 02:57
+initial: true
+text: let's not talk about that right before trying to sleep. just make sure the hallway latch is locked tonight.
+
+---
+sender: them
+senderName: Lee Minhyung
+time: 02:58
+initial: true
+text: yeah... suddenly not really in the mood to edit anymore. goodnight guys.

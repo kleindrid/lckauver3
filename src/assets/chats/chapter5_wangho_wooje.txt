@@ -1,0 +1,41 @@
+# WhatsApp Script — Chapter 5 (23:10, after checking X & Instagram)
+# Han Wangho replies to Sanghyeok's 23:00 message explaining who Wooje is.
+
+id: unknown
+chapter: 5
+order: 1
+trigger: ch5_social_checked
+name: Han Wangho
+subtitle: Verified Contact · Protected Ally
+number: +82 10-0000-0404
+avatar: wangho
+unread: 3
+
+---
+sender: them
+time: 23:09
+initial: true
+text: Sorry for taking so long to reply, I just got back to my place. That was Wooje, we're close friends, don't worry.
+
+---
+sender: them
+time: 23:09
+initial: true
+text: He moved here about three years ago to study. He isn't close with his family at all, so we grew close because I was his senior in college.
+
+---
+sender: them
+time: 23:10
+initial: true
+text: Honestly we do everything together like brothers. He can be a little clingy sometimes, which is why he walked right up on us like that, but it's fine, he didn't hear anything we talked about.
+
+---
+sender: me
+time: 23:11
+text: Wait, he moved here three years ago with no family ties nearby? Remember what you literally just told me about people who showed up without clear roots.
+
+---
+sender: them
+time: 23:12
+delay: 3600
+text: I hear how that sounds, Sanghyeok. Just trust me on Wooje. I know him better than anyone. Stay safe.

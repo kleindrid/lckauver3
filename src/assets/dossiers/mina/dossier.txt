@@ -1,0 +1,22 @@
+id: mina
+name: Song Mina
+age: 20
+role: Architecture Sophomore · Party Guest
+residence: Campus Flats · North Wing (Bldg A)
+attendedParty: true
+status: alive
+alibi: Attended the villa party from 22:15 until 01:15 with Chaewon; scanned her Campus Flats Bldg A hallway keycard at 01:32.
+interrogationSummary: Recalled the patio floodlights flickering off around 01:05 right before she and Chaewon left. Mentioned hearing a sharp metallic click near the side hedge as guests ordered cabs along the driveway.
+detectiveNotes: Dorm access logs verify 01:32 re-entry at Campus Flats North Wing. Note on floodlights turning off aligns with unlatched rear gate window.
+
+---
+if_dead: minhyung
+time: Oct 24 · 21:25
+title: Garden Floodlight Detail
+text: Clarified in second questioning that Dohyeon's outdoor timer usually kept garden floodlights on until 03:00—someone manually tripped the patio switch before 01:15.
+
+---
+chapter: 4
+time: Oct 25 · 12:05
+title: Witness Relocation Concern
+text: Packed an overnight bag at Bldg A after rumors spread that all party witnesses were being targeted; still reachable at Gyeong-gwan Campus Flats.

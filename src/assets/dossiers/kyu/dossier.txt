@@ -1,0 +1,18 @@
+id: kyu
+name: Kim Hyukkyu
+age: 30
+role: Nurse
+residence: Seongnam Side-Street House
+attendedParty: false
+status: alive
+alibi: Stayed home locking during the party hours.
+interrogationSummary: Blunt and protective during questioning; insisted neither Minseok nor Jihoon would do something like this.
+detectiveNotes: Strongly distrusts outsiders near his household. Has no confirmed connection to Minhyung. Allegedly in a relationship with Kwanghee. Deeply tied to the 2008 murders—his older sister, Kim Gyuri (15), and his mother, Jang Miyeon (40), were among the victims. Reports from that time suggest the killer targeted them out of a twisted obsession with silencing anyone connected to her past secret and her family's social circle, viewing their household as a direct threat to her double life. Hyukkyu remains very vocal about the "Rabbit" case, having even given media interviews about the tragedy during his teenage years.
+
+---
+chapter: 7
+trigger: ch7_minseok_statement
+time: Oct 27 · 10:05
+title: Ch. 07 Update — Sunday Night Fight & Absence
+text: Minseok's statement confirmed Kyu came home from his shift Sunday evening to find Kwanghee and Jaehyuk in the living room, sparking a severe three-way fight. Kyu kicked Kwanghee out, ordered Minseok to pack his things, and did not sleep at home Sunday night—leaving his whereabouts between Sunday night and Monday evening unverified.
+

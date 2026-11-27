@@ -1,0 +1,29 @@
+# WhatsApp Script — Chapter 7 Lunch Invite (10:07, after hearing Minseok's statement)
+# Hyunjun asks Sanghyeok to get lunch together; Sanghyeok declines saying he has errands to run.
+
+id: hyunjun
+chapter: 7
+order: 1
+trigger: ch7_minseok_statement
+name: Hyunjun
+subtitle: Dorm 304 · Private conversation
+number: +82 10-8812-3041
+avatar: hyunjun
+unread: 1
+
+---
+sender: them
+time: 10:07
+initial: true
+text: Hey Sanghyeok, want to grab lunch together once class lets out?
+
+---
+sender: me
+time: 10:08
+text: Can't today, sorry. I have some errands to run right after class.
+
+---
+sender: them
+time: 10:08
+delay: 2000
+text: Ok.

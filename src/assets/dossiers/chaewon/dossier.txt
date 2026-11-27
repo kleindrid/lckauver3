@@ -1,0 +1,22 @@
+id: chaewon
+name: Baek Chaewon
+age: 21
+role: Media & Film Junior · Party Guest
+residence: Campus Flats · Riverside Annex (Bldg C)
+attendedParty: true
+status: alive
+alibi: Filmed short party clips until 00:40, then shared a cab back toward Campus Flats with Mina at 01:15.
+interrogationSummary: Told officers Lee Minhyung seemed unusually tense after 00:15 and complained twice that someone kept eyeing his phone and camera bag near the hallway table. Handed over her phone clips at the precinct.
+detectiveNotes: Clips submitted on Oct 24—check if backup copies remain on her personal cloud after the Chief Lieutenant's devices were smashed.
+
+---
+if_dead: minhyung
+time: Oct 24 · 21:40
+title: Submitted Party Clips
+text: Her short vertical clips show Minhyung checking his phone messages impatiently by the foyer stairs around 00:22.
+
+---
+chapter: 4
+time: Oct 25 · 13:15
+title: Cloud Backup Inquiry
+text: After the precinct evidence was destroyed, Chaewon reported her original phone clips had auto-deleted after 24 hours, leaving only blurred screenshots from before midnight.

@@ -1,0 +1,20 @@
+id: siwoo
+name: Son Siwoo
+age: 27
+role: Student (?)
+residence: University Off-Campus Flats
+attendedParty: true
+status: alive
+alibi: Arrived at Dohyeon's villa at 22:30; left abruptly around 00:15 after spotting Jaehyuk near the patio.
+interrogationSummary: Volatile when questioned. Insists he walked straight back to his apartment before anything happened in the woods.
+detectiveNotes: Left early—timeline between 00:15 and 01:30 lacks independent verification.
+
+---
+chapter: 4
+trigger: ch4_hyunjun_clue
+time: Oct 25 · 08:51
+title: Eyewitness Lead — Trailing Lee Minhyung at the Party
+text: Hyunjun confirmed privately that Siwoo repeatedly followed Minhyung from room to room and toward the back patio during Dohyeon's party. Because Minhyung ran a famous YouTube channel and loved filming constantly, Siwoo almost certainly appeared on Minhyung's video recordings. Family and past links were not found.
+
+
+

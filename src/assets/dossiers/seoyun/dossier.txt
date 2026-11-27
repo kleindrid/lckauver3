@@ -1,0 +1,22 @@
+id: seoyun
+name: Han Seoyun
+age: 22
+role: Photography Senior · Party Guest
+residence: Campus Flats · North Wing (Bldg A)
+attendedParty: true
+status: alive
+alibi: Brought a Polaroid camera to Dohyeon's villa; left with upperclassmen at 01:30 via the main avenue.
+interrogationSummary: Remembered taking quick snapshots near the foyer coat rack; recalled seeing Dohyeon exchange hushed words with Minseok near the stairs before Minseok walked outside alone.
+detectiveNotes: Check Polaroid prints from the coat rack—may show who stayed behind past 01:00 or wore dark coats near the rear exit.
+
+---
+if_dead: minhyung
+time: Oct 24 · 22:05
+title: Coat Rack Polaroids
+text: Turned in four Polaroids taken between 23:30 and 00:45; edges show crowded guests indoors, but two coats on the rack vanished before 01:20.
+
+---
+chapter: 4
+time: Oct 25 · 15:00
+title: Campus Darkroom Closure
+text: Gyeong-gwan University locked the evening studio and darkroom wing in Campus Flats vicinity; Seoyun stayed in Bldg A all Sunday.

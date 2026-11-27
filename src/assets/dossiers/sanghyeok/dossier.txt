@@ -1,0 +1,12 @@
+id: sanghyeok
+name: Lee Sanghyeok
+age: 30
+role: Student 
+residence: Dorm 304 · Seongnam-ro
+attendedParty: true
+status: alive
+alibi: Stated he did not stay at the party past midnight; cell tower records corroborate this by tracing his phone activity back to his residence before 12:00 AM.
+interrogationSummary: Seemed calm and cooperative. Emphasized that he left early and went straight home before midnight.
+detectiveNotes: -
+
+

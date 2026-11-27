@@ -1,0 +1,13 @@
+id: suhwan
+name: Suhwan
+age: 20
+role: Student
+residence: Seongnam Residential Block
+attendedParty: true
+status: alive
+alibi: Went to Dohyeon's party with Jihoon's circle briefly, then walked home before 01:30.
+interrogationSummary: Polite and concise. Confirmed his brother was at home before him.
+detectiveNotes: Lives with Jaehyuk (Older brother) and Kang Minju (Grandmother). Family links back to Seoul.
+
+
+

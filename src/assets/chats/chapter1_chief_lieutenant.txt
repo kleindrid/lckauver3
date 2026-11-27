@@ -1,0 +1,25 @@
+id: tenente
+chapter: 1
+order: 1
+name: Chief Lieutenant
+subtitle: Command · Gyeong-gwan Police Dept.
+number: +82 10-4402-0100
+avatar: police
+unread: 1
+
+---
+sender: them
+time: 04:00
+initial: true
+text: Sanghyeok, any leads from the dorm yet?
+
+---
+sender: me
+time: 04:01
+text: Nothing out of the ordinary for now.
+
+---
+sender: them
+time: 04:01
+delay: 4000
+text: Ok. Keep logging and check local feeds for any movement.

@@ -1,0 +1,22 @@
+id: yuna
+name: Park Yuna
+age: 20
+role: Business Freshman · Party Guest
+residence: Campus Flats · East Courtyard (Bldg B)
+attendedParty: true
+status: alive
+alibi: Stayed mostly in the downstairs kitchen and living room with classmates; walked back to Campus Flats Bldg B in a group of four at 00:55.
+interrogationSummary: Confirmed Dohyeon boasted that private guards were only watching the front gate. Said she saw a tall silhouette wearing a dark jacket slip along the side bushes around 00:50, though she assumed it was a late arrival.
+detectiveNotes: Verify whether the silhouette along the side bushes wore anything matching the stolen rabbit mask or carried a bag.
+
+---
+if_dead: minhyung
+time: Oct 24 · 21:55
+title: Side Bush Sighting
+text: Added during follow-up review that the figure near the bushes didn't walk up the front steps—they turned straight toward the rear garden fence.
+
+---
+chapter: 4
+time: Oct 25 · 14:10
+title: Safety Escort Request
+text: Requested campus security escort between university lecture halls and Campus Flats Bldg B following the morning news broadcast.

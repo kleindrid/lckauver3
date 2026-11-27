@@ -1,0 +1,26 @@
+id: minhyung
+chapter: 2
+order: 1
+name: Lee Minhyung
+subtitle: Dorm 304 · Room 304-C
+number: +82 10-5590-3043
+avatar: minhyung
+unread: 1
+trigger: evening
+
+---
+sender: them
+time: 17:08
+initial: true
+text: Why are you investigating me?
+
+---
+sender: me
+time: 17:09
+text: I'm not investigating anyone. With everything going on in Gyeong-gwan, I just keep track of when people come and go.
+
+---
+sender: them
+time: 17:10
+delay: 2000
+text: Save it. Stay out of my business.

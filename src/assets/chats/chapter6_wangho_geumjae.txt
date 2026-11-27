@@ -1,0 +1,68 @@
+# WhatsApp Script — Chapter 6 (10:45, after checking Wangho's social media & returning to Home Screen)
+# Han Wangho talks about the police call, the neighbor trying to file a report, and his conviction that Geumjae is his brother.
+
+id: unknown
+chapter: 6
+order: 1
+trigger: ch6_wangho_social_checked
+name: Han Wangho
+subtitle: Verified Contact · Protected Ally
+number: +82 10-0000-0404
+avatar: wangho
+unread: 1
+
+---
+sender: them
+time: 10:45
+initial: true
+text: Sanghyeok, do you have a minute? Something just happened.
+
+---
+sender: me
+time: 10:46
+text: I was actually just thinking about you. What's going on?
+
+---
+sender: them
+time: 10:46
+delay: 3000
+text: The police just called me. That neighbor wants to file a restraining order against me. I honestly don't know what to do.
+
+---
+sender: them
+time: 10:47
+delay: 3400
+text: Sanghyeok, I'm completely sure Geumjae is my brother. 
+
+---
+sender: me
+time: 10:48
+text: Slow down, Wangho. Even if everything matches, you need to respect his decision.
+
+---
+sender: them
+time: 10:48
+delay: 3200
+text: He isn't the one deciding! His mother is the one blocking everything, she's crazy.
+
+---
+sender: me
+time: 10:49
+text: You shouldn't jump to conclusions like that. She's just being protective, which is completely normal.
+
+---
+sender: them
+time: 10:50
+delay: 3600
+text: Wait... what if it's her? If she's the one who's been with my brother all these years, maybe she has a relation with the original killer. I mean... it makes sense, right?
+
+---
+sender: me
+time: 10:51
+text: Don't spiral without evidence. I'll try to help you check into this, but if Geumjae doesn't want contact, you have to respect it.
+
+---
+sender: them
+time: 10:52
+delay: 2800
+text: ...Okay. I'll try to calm down. Thank you for helping me, Sanghyeok.

@@ -1,0 +1,32 @@
+id: unknown
+chapter: 5
+order: 1
+name: Unknown Number
+subtitle: Unverified Contact
+number: +82 10-0000-0404
+avatar: unknown
+unread: 0
+
+---
+sender: them
+time: 14:15
+initial: true
+text: Hello, can we talk?
+
+---
+sender: them
+time: 14:15
+initial: true
+text: We dont know each other yet.
+
+---
+sender: me
+time: 14:16
+initial: true
+text: Who is this? How do you have this number?
+
+---
+sender: them
+time: 14:17
+initial: true
+text: I'm someone Kang Minhyeok knows. Can we meet up?

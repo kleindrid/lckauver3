@@ -1,0 +1,70 @@
+id: hyunjun
+chapter: 2
+order: 1
+name: Hyunjun
+subtitle: Dorm 304 · Roommate
+number: +82 10-8812-3041
+avatar: hyunjun
+unread: 1
+
+---
+sender: them
+time: 09:15
+initial: true
+text: Hey Sanghyeok, sorry to bother you. Did you leave for the grocery market already?
+
+---
+sender: them
+time: 09:15
+initial: true
+text: I keep double-checking the front latch and my hands are shaking a bit, so I really didn't want to walk down Seongnam-ro by myself.
+
+---
+sender: them
+time: 09:15
+initial: true
+text: If you are going, could you grab milk, eggs, and a pack of ramen? Please check the expiration dates twice and stick to the main street instead of the alley, okay?
+
+---
+sender: me
+time: 09:16
+text: I understand. I'm already on the main street. Everything looks quiet out here.
+
+---
+sender: them
+time: 09:17
+delay: 6000
+text: That's a relief... but please still be careful. Do you think we should lock the main gate from the inside too? Or does that just make it harder for us to get out if something happens?
+
+---
+sender: me
+time: 09:18
+text: Keep the main gate locked. It's safer that way. I have my key with me.
+
+---
+sender: them
+time: 09:19
+delay: 6000
+text: Okay, doing it right now. Did you find the milk and eggs?
+
+---
+sender: me
+time: 09:20
+text: I've got it all.
+
+---
+sender: them
+time: 09:21
+delay: 6000
+text: Thank you so much Hyung. How are you so calm through all of this? Everyone else in the house is losing their minds.
+
+---
+sender: me
+time: 09:22
+text: Just keep the doors locked and stay inside until I get back. 
+
+---
+sender: them
+time: 09:23
+delay: 3000
+text: Ok... Thank you again... Please come back safely.

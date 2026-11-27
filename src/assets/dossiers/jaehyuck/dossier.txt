@@ -1,0 +1,23 @@
+id: jaehyuck
+name: Jaehyuk
+age: 28
+role: Residence Nurse
+residence: Seongnam Residential Block
+attendedParty: true
+status: alive
+alibi: Stopped by Dohyeon's party briefly before walking home to check on Suhwan and Grandma.
+interrogationSummary: Calm and polite with officers. Nearly every witness at the station confirmed seeing or speaking with him without conflict.
+detectiveNotes: Appears to be friends with everyone across the neighborhood despite bitter rivalries among other attendees (notably Siwoo).
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:05
+title: Witness Cross-Check
+text: Several attendees don't recall his presence at the party.
+
+---
+chapter: 7
+trigger: ch7_minseok_statement
+time: Oct 27 · 10:05
+title: Ch. 07 Update — Sunday Night Argument
+text: Minseok testified that Jaehyuk was inside the Seongnam house living room with Kwanghee on Sunday evening, triggering an ugly fight between both Jaehyuk and Kyu against Kwanghee over an undisclosed relationship. Left shortly afterward with Jung Jihoon following him out.

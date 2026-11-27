@@ -1,0 +1,17 @@
+id: kwanghee
+name: Kwanghee
+age: 29
+role: Freelance Mechanic
+residence: Gyeong-gwan East Apartments
+attendedParty: true
+status: alive
+alibi: Spent the entire night inside Dohyeon's living room drinking, corroborated by three videos posted online.
+interrogationSummary: Initially joked during the interview until told Lee Minhyung's body was found steps from the party venue.
+detectiveNotes: Loud presence on X and Instagram; unreliable sense of danger, unlikely to have operated unnoticed outside alone. Has deep family ties to the 2008 murder victims. Kwanghee’s father was wrongfully arrested weeks before the real killer was caught and died in prison before being exonerated. According to 2008 case files, the original killer framed his father out of resentment over an affair between them that resulted in a pregnancy she was forced to terminate.
+
+---
+chapter: 7
+trigger: ch7_minseok_statement
+time: Oct 27 · 10:05
+title: Ch. 07 Update — Missing (Minseok Testimony)
+text: According to Ryu Minseok's precinct testimony, Kwanghee argued violently with both Kim Hyukkyu and Jaehyuk on Sunday night before being kicked out. Later that night he was lured to an abandoned house on the outskirts of town where the Rabbit killer held Minseok hostage, taunted Kwanghee over burn scars and his father's sins, and fired six gunshots after Kwanghee ordered Minseok to flee. Minseok saw only the Rabbit figure still standing before escaping into the woods. No body has been recovered yet; Kwanghee remains officially listed as Missing pending precinct confirmation.

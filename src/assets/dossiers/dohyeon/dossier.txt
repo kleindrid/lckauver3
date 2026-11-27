@@ -1,0 +1,31 @@
+id: dohyeon
+name: Dohyeon
+age: 25
+role: Party Host · Gyeong-gwan Hills
+residence: Gyeong-gwan Hills Villa
+attendedParty: true
+status: alive
+alibi: Remained inside the villa hosting over 80 guests; security staff stationed at front driveway gate.
+interrogationSummary: Dismissive of police authority; emphasized his family's influence and insisted the wooded slope behind his villa is outside his private fence line.
+detectiveNotes: Hosted the party despite police safety warnings. Precinct sources note unusual access near restricted records—verify his family's contacts.
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:30
+title: Property Perimeter Inspection
+text: Rear garden gate leading into the wooded slope was found unlatched by crime-scene unit despite private security at the main entrance.
+
+---
+chapter: 4
+time: Oct 25 · 08:30
+title: Submitted Party Footage Destroyed
+text: Delivered raw party video files and Lee Minhyung's phone to the Chief Lieutenant on Oct 24 night. All handed-over devices and drives were smashed during the pre-dawn attack at the lieutenant's home.
+
+---
+chapter: 6
+trigger: ch6_morning_call
+time: Oct 26 · 08:15
+title: Viper Precinct Incident & Unauthorized Access
+text: Stormed the precinct demanding investigative rights. Sanghyeok observed that Dohyeon (Viper) has been using his father's police badge and credentials to probe local police patrols while acting on his own. Claimed another person died last night before any precinct report was filed.
+
+

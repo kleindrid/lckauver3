@@ -1,0 +1,44 @@
+id: republica
+chapter: 4
+order: 2
+trigger: ch4_chief_news
+name: Dorm 304 (Group)
+subtitle: Lee Sanghyeok, Hyunjun, Moon
+number: +82 10-3304-0000
+avatar: dorm304
+unread: 4
+
+---
+sender: them
+senderName: Hyunjun
+time: 08:41
+initial: true
+text: Did you guys just see the news?! The police lieutenant and his wife... they were murdered in their house before dawn.
+
+---
+sender: them
+senderName: Hyunjun
+time: 08:42
+initial: true
+text: I can't take this anymore. I'm serious this time; I have to get out of here today.
+
+---
+sender: them
+senderName: Moon
+time: 08:43
+initial: true
+text: If the killer walked into a police lieutenant's home, bolting down the highway alone won't save you.
+
+---
+sender: them
+senderName: Hyunjun
+time: 08:44
+delay: 2800
+text: You just want to scare me! Stop that. 
+
+---
+sender: them
+senderName: Moon
+time: 08:45
+delay: 3500
+text: I'm not trying to scare you, Hyunjun. I'm just as terrified as you are right now.

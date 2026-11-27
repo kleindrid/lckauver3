@@ -1,0 +1,10 @@
+id: republica
+chapter: 4
+order: 2
+name: Dorm 304 (Group)
+subtitle: Lee Sanghyeok, Hyunjun, Moon
+number: +82 10-3304-0000
+avatar: dorm304
+unread: 0
+
+# Dorm 304 Group Chat at the start of Chapter 4 (before Hyunjun panics over the breaking news).

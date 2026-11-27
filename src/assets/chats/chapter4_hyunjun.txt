@@ -1,0 +1,121 @@
+id: hyunjun
+chapter: 4
+order: 1
+trigger: ch4_group_panic
+name: Hyunjun
+subtitle: Dorm 304 · Private conversation
+number: +82 10-8812-3041
+avatar: hyunjun
+unread: 1
+
+---
+sender: me
+time: 08:45
+text: Hyunjun, talk to me privately for a second. Do you have any information?
+
+---
+sender: them
+time: 08:46
+delay: 4600
+text: I don't know... I'm so scared right now.
+
+---
+sender: me
+time: 08:47
+text: It's just us here. If you saw someone acting strange at Dohyeon's house, you can tell me.
+
+---
+sender: them
+time: 08:48
+delay: 3200
+text: Are you scared too? I don't think we can do anything about this.
+
+---
+sender: them
+time: 08:48
+delay: 2200
+text: I need to get out of here. I really can't stay.
+
+---
+sender: me
+time: 08:48
+text: I can't leave. Can't you tell me anything so I can at least protect myself?
+
+---
+sender: them
+time: 08:49
+delay: 4800
+text: There’s a guy at the university called Siwoo, Son Siwoo. He was following Minhyung at the party yesterday. Every time Minhyung stepped away from the crowd or walked toward the back patio, Siwoo trailed right behind him.
+
+---
+sender: them
+time: 08:49
+delay: 3500
+text: And you know how Minhyung had a  YouTube channel and loved filming everything. He had only a few followrs, but he was very passionate about filmmaking. There's no way Siwoo didn't appear in his party footage.
+
+---
+sender: me
+time: 08:50
+text: Minhyung's YouTube channel... So if any footage or backup survived outside Dohyeon's house, Siwoo would be caught on camera following him.
+
+---
+sender: them
+time: 08:50
+delay: 3800
+text: Maybe, hyung. I don't know… We weren't close… I just know he liked to record.
+
+---
+sender: me
+time: 08:51
+text: Do you know if anyone else has access to his accounts?
+
+---
+sender: them
+time: 08:51
+delay: 4800
+text: I know someone he hung out with a lot, but I’m too scared to talk to him.
+
+---
+sender: them
+time: 08:51
+delay: 4800
+text: And Siwoo definitely knows we were dormmates. I'm sure Siwoo showed up on those recordings. That's why I can't stay here another night! He’s coming after me next!
+
+---
+sender: me
+time: 08:52
+text: You don't have to talk to him, Hyunjun. Just give me a name so I can look into it myself. If we stay quiet, none of us are safe.
+
+---
+sender: them
+time: 08:52
+delay: 3900
+text: Promise you won't tell anyone I told you this. Please, hyung.
+
+---
+sender: me
+time: 08:53
+text: I swear. Nobody will know it came from you. Who is it?
+
+---
+sender: them
+time: 08:53
+delay: 4200
+text: His name is Ryu Minseok. He's in our class. They were always together between lectures.
+
+---
+sender: me
+time: 08:54
+text: Do you know where he lives or where I can find him?
+
+---
+sender: them
+time: 08:54
+delay: 3600
+text: No, I have no idea where his place is. We barely ever spoke.
+
+---
+sender: them
+time: 08:55
+delay: 3400
+text: All I know is that most of his classes are in the morning. You might be able to catch him on campus before noon.

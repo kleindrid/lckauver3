@@ -1,0 +1,18 @@
+id: hyunjun
+name: Choi Hyunjun
+age: 25
+role: Student.
+residence: Dorm 304 · Seongnam-ro
+attendedParty: true
+status: alive
+alibi: Attended Dohyeon's party, claims he stayed near the main living room all night before returning.
+interrogationSummary: Visibly shaken during questioning
+detectiveNotes: High anxiety spikes day and night. Urged everyone to lock the dorm gates on Day 2, then insisted going to a crowded party was safer.
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:15
+title: Interrogation Follow-Up (After Minhyung's Death)
+text: Broke down when shown Lee Minhyung's case photo. Admits he lost sight of Minhyung around 00:45 near the back patio at Dohyeon's house.
+
+

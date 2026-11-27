@@ -1,0 +1,58 @@
+# WhatsApp Script — Chapter 6 Morning (08:22, after Inspector Kang's call cuts out)
+# Hyunjun messages Sanghyeok about Moon skipping classes, Minseok, and police blocking him from leaving town.
+
+id: hyunjun
+chapter: 6
+order: 1
+trigger: ch6_morning_call
+name: Hyunjun
+subtitle: Dorm 304 · Private conversation
+number: +82 10-8812-3041
+avatar: hyunjun
+unread: 2
+
+---
+sender: them
+time: 08:22
+initial: true
+text: Hey Sanghyeok, sorry to bother you this early. Have you noticed Moon has been skipping all his university classes lately?
+
+---
+sender: them
+time: 08:22
+initial: true
+text: Also, did you manage to talk to Minseok yet?
+
+---
+sender: me
+time: 08:23
+text: Not yet, I haven't had the time to catch him yet, but I'm planning to look into it right away.
+
+---
+sender: them
+time: 08:24
+delay: 3400
+text: Okay... Also, the police still refused to authorize me to leave the city.
+
+---
+sender: them
+time: 08:24
+delay: 2800
+text: They told me I can stay inside my home if I want, just that for now I'm not allowed to leave Gyeong-gwan at all.
+
+---
+sender: them
+time: 08:25
+delay: 3400
+text: Honestly it's infuriating! I'm not guilty! I have nothing to do with any of this, and they're locking me down here like I killed someone!
+
+---
+sender: me
+time: 08:26
+text: Take a breath, Hyunjun. It's just standard procedure for everyone who was at Dohyeon's party while they sort out the timeline. Stay calm and stay inside where it's safe, I know you didn't do this.
+
+---
+sender: them
+time: 08:27
+delay: 3000
+text: ...Alright. Thanks, Sanghyeok. Just watch yourself if you go looking for Minseok today.

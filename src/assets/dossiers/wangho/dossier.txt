@@ -1,0 +1,32 @@
+id: wangho
+name: Han Wangho
+age: 28
+role: Business
+residence: Gyeong-gwan Old District
+attendedParty: false
+status: alive
+alibi: Remained at home all Friday evening sorting old family records; confirmed via neighbor Wooje.
+interrogationSummary: Cooperated briefly during follow-up questioning. Visibly shaken by news of another young resident murdered so close to Halloween week. 
+detectiveNotes: Comes from an old, wealthy local family. Lost his parents in the brutal 2008 home invasion; his infant brother was kidnapped that night, while Wangho survived by hiding inside a closet for hours. Inherited the entire family fortune and was raised by a legal guardian until coming of age. Possesses almost no physical records of his missing brother beyond childhood memories and a handful of photographs. Maintained that his family never mistreated the maid, though he admitted he was too young at the time to truly understand the household dynamics.
+
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:15
+title: 2008 Pattern Cross-Check
+text: Precinct analysts note Wangho was absent from Dohyeon's party and remains focused exclusively on his missing-sibling cold case.
+
+---
+chapter: 5
+trigger: ch5_wangho_mail
+time: Oct 25 · 16:40
+title: Ch. 05 Verification — Inspector Kang's Protégé
+text: Inspector Kang Minhyeok confirmed privately via encrypted mail that Han Wangho is his trusted protégé and likely the unknown number contacting Sanghyeok. Treated as a vetted off-grid ally for the 2008 & Gyeong-gwan investigation.
+
+---
+chapter: 6
+trigger: ch6_wangho_geumjae
+time: Oct 26 · 10:52
+title: Neighborhood Fixation & Restraining Order Dispute
+text: Police notified Wangho that a neighborhood woman—Geumjae's mother—attempted to file a restraining order against him at the precinct. Wangho insists Geumjae is his missing 2008 brother and suspects the mother's motives, though no direct link to the killer has been established.
+

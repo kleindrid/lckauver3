@@ -1,0 +1,32 @@
+id: tenente
+chapter: 3
+order: 1
+trigger: living_room_recorded
+name: Chief Lieutenant
+subtitle: Command · Gyeong-gwan Police Dept.
+number: +82 10-4402-0100
+avatar: police
+unread: 2
+
+---
+sender: them
+time: 21:05
+initial: true
+text: Sanghyeok, one last update before you turn in. Dohyeon just came by the precinct and turned over raw party video files—along with Lee Minhyung's phone.
+
+---
+sender: them
+time: 21:05
+initial: true
+text: Dohyeon told us Minhyung was filming all over the party for his channel—meaning he could have caught his own killer on tape. I'm taking the footage home tonight to watch every frame myself and end this once and for all.
+
+---
+sender: me
+time: 21:06
+text: Understood, Lieutenant. Call me the second you identify anyone.
+
+---
+sender: them
+time: 21:07
+delay: 4800
+text: Get some rest—by tomorrow morning this ends.

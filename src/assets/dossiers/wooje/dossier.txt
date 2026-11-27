@@ -1,0 +1,19 @@
+id: wooje
+name: Wooje
+age: 22
+role: Student
+residence: Gyeong-gwan Old District
+attendedParty: true
+status: alive
+alibi: Attended Dohyeon's party for roughly an hour before walking back early because the crowd felt uneasy.
+interrogationSummary: Quiet and nervous during interview. Mentioned seeing Dorm 304 students arguing near the driveway before he left. Mentioned Jaehyuk and Siwoo drunk fight early in the party.
+detectiveNotes: Close to Han Wangho. Witnessed Minhyung standing alone by the side gate around 23:20.
+
+---
+if_dead: minhyung
+time: Oct 24 · 20:10
+title: Gate Sighting Statement
+text: Confirmed Minhyung looked agitated on his phone near the driveway around 23:50, shortly before Wooje walked back home.
+
+
+

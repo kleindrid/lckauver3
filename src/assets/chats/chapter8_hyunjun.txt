@@ -1,0 +1,32 @@
+Chapter: 8
+Trigger: default
+Order: 2
+Id: hyunjun
+Name: Hyunjun
+Subtitle: @hyunjunchoi
+Number: +82 10-2204-1188
+Avatar: hyunjun
+Unread: 1
+
+sender: them
+time: 09:02
+text: Sanghyeok—did you see the news alert just now?!
+
+sender: them
+time: 09:02
+delay: 2400
+text: The two influencer twins from TwinSkulls were just found murdered inside a tent in the woods right behind the campus!
+
+sender: them
+time: 09:03
+delay: 3200
+text: They were stabbed with precise knife wounds. The news says the Bunny Killer video of him appearing and murdering them live on stream was up until a few hours ago before being scrubbed off every platform.
+
+sender: them
+time: 09:04
+delay: 3600
+text: Look at this brutality... at least the bunny got rid of them... but my god, this is so horrifying. I'm so scared, Sanghyeok. He even posted the video—he isn't even trying to hide anymore.
+
+sender: me
+time: 09:05
+text: I saw it, Hyunjun. Stay inside your room, keep your door locked, and do not go anywhere near the campus woods. I'm heading over now.
