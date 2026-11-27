@@ -1,8 +1,0 @@
-id: j5
-chapter: 5
-title: Day 05 — Weighing the Offer
-date: Sunday, Oct 25
-mood: Cautious
-prefilledText: The Chief Lieutenant is gone and every local channel at the station has gone dark. Whoever messaged me from that blocked number already knows Inspector Kang Minhyeok by name. 
-typedText: I'm thinking about accepting this unknown number's proposal—only if we meet somewhere public and safe. If they truly answer to the inspector, they might be my only real ally left in Gyeong-gwan.
-body: The Chief Lieutenant is gone and every local channel at the station has gone dark. Whoever messaged me from that blocked number already knows Inspector Kang Minhyeok by name. I'm thinking about accepting this unknown number's proposal—only if we meet somewhere public and safe. If they truly answer to the inspector, they might be my only real ally left in Gyeong-gwan.
