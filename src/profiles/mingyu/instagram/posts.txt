@@ -1,0 +1,31 @@
+# Mingyu — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Music Practice Room B
+Time: 5 HOURS AGO
+Likes: 412
+Saved: false
+Image: /assets/aistudio/mingyupost1_21a24bcb.jpg
+Palette: #4f46e5, #172554, #818cf8
+Caption: Running through the arrangement one more time until it sticks.
+Comments:
+jihoon | Jihoon | jihoonjjjj | 4h | Let me hear the bridge tomorrow.
+ghost | pedalboard_nerd | pedalboard_nerd | 4h | is that a jazzmaster through an old roland amp?? tone must be filthy
+ghost | indie_synth99 | indie_synth99 | 3h | if you're using 7th chords on that turnaround send me the stems asap
+ghost | bassline_hyuk | bassline_hyuk | 3h | practice room B acoustics are terrible unless you mic the cab at 45 degrees
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Campus Basement Studio
+Time: 2 DAYS AGO
+Likes: 528
+Saved: false
+Image: /assets/aistudio/mingyupost2_bd24cdab.jpg
+Palette: #312e81, #0f172a, #6366f1
+Caption: 
+Comments:
+ghost | snare_tuning | snare_tuning | 2d | cooool!!!
+ghost | vinyl_theory | vinyl_theory | 2d | am I imagining things
+ghost | metro_rehearsal | metro_rehearsal | 1d | drop the demo

@@ -1,0 +1,73 @@
+# Kyu — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 1, 2, 3, 4, 5, 6
+Location: 
+Time: 200 DAY AGO
+Likes: 318
+Saved: false
+Image: /assets/aistudio/hykkyupost2_cd36d226.jpg
+Palette: #0369a1, #0f172a, #1e293b
+Caption: 
+Comments:
+minseok | Minseok | rminseokk | 20h | lmao
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: 
+Time: 90 DAYS AGO
+Likes: 184
+Saved: false
+Image: /assets/aistudio/hyukkyupost1_3674395a.jpg
+Palette: #1e293b, #0f172a, #38bdf8
+Caption: wtver
+Comments:
+minseok | Minseok | rminseokk | 90d | its meeee
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan Alleyway
+Time: 40 DAYS AGO
+Likes: 152
+Saved: false
+Image: /assets/aistudio/hyukkyupost2_13296d45.jpg
+Palette: #0f172a, #1e293b, #475569
+Caption: <3
+Comments:
+kwanghee | Kwanghee | kwanghee.k | 40d | Pick up your phone when I call.
+minseok | Minseok | rminseokk | 40d | Always thinking of you, hyung.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Dog Cafe Terrace
+Time: 21 DAYS AGO
+Likes: 247
+Saved: false
+Image: /assets/aistudio/hyukkyupost_3fd6ee40.jpg
+Palette: #0284c7, #0f172a, #7dd3fc
+Caption: Quiet afternoon.
+Comments:
+
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: 
+Time: 15 DAYS AGO
+Likes: 291
+Saved: false
+Image: /assets/aistudio/hyukkyupost4_ee2beae1.jpg
+Palette: #1e293b, #09090b, #64748b
+Caption: 
+Comments:
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan 
+Time: 4 DAYS AGO
+Likes: 236
+Saved: false
+Image: /assets/aistudio/hyukkyupost5_f4556149.jpg
+Palette: #0369a1, #0f172a, #38bdf8
+Caption: 
+Comments:

@@ -1,0 +1,28 @@
+id: allstar-2008
+order: 1
+source: gyeonggwan-herald.kr · Breaking News
+headline: ERROR REIGNITED: 2008 TRAGEDY RESURFACES AS BAND MEMBERS FOUND MURDERED; EVIDENTIARY COSTUME STOLEN FROM POLICE VAULT
+byline: By Kim K. · Senior Crime Reporter
+
+---
+heading:
+text:
+GYEONG-GWAN — The haunting ghosts of 2008 have officially returned to drag this scenic city back into a living nightmare. Eighteen years after a string of horrific home invasions tore through our community—leaving families shattered and a baby boy vanished without a trace—law enforcement has confirmed that a new wave of violence has struck at the heart of Gyeong-gwan.
+
+Emergency services responded to a massive blaze at the rehearsal garage of local rock group AllStar. What initial responders treated as a catastrophic structure fire quickly turned into an active homicide investigation.
+
+According to police sources, all five members of AllStar were discovered dead inside the burned shell of the facility. Investigators report that the victims did not perish from smoke inhalation; several members bore clear signs of prolonged physical torture, while others suffered fatal stab wounds prior to the ignition of the property.
+
+"This was not an accident," Chief Inspector Park stated during a brief midnight press conference outside the cordoned-off perimeter. "This was a calculated, deliberate act of absolute violence."
+
+---
+heading: BREACH AT PRECINCT HEADQUARTERS
+text:
+Adding to the growing panic gripping residents, internal law enforcement sources have confirmed a staggering security breach at the central police station. Merely days before the garage fire, the original rabbit costume—the infamous makeshift disguise worn during the 2008 spree murders—was reported missing from the high-security evidence locker.
+
+Authorities have yet to explain how an intruder managed to bypass precinct surveillance to retrieve the relic, but the connection is now undeniable. Eyewitnesses near the AllStar garage reported seeing a tall figure fleeing the alleyways clad in the distinctive, rabbit mask moments before flames engulfed the building.
+
+---
+heading: A TOWN ON EDGE
+text:
+The brutal massacre of AllStar has sent shockwaves through local neighborhoods, reigniting open wounds for survivors who lost their loved ones in the original tragedy. With no suspects currently in custody and a killer actively donning the mantle of Gyeong-gwan's worst nightmare, local officials have urged all residents to keep doors bolted and avoid walking alone after dark.

@@ -1,0 +1,18 @@
+id: burned-vehicle
+order: 2
+source: gyeonggwan-herald.kr · Urgent Update
+headline: NIGHT OF HORROR: RESIDENT FOUND BURNED ALIVE IN VEHICLE AS TOWN FEARS RETURN OF 2008 SERIAL KILLER
+byline: By Kim K. · Senior Crime Reporter
+
+---
+heading:
+text:
+At approximately 11:45 PM on Sunday, local fire brigades arrived at the residential sector near Gyeong-gwan Park following frantic 911 calls reporting an explosion and towering flames. Upon extinguishing the blaze, firefighters made a horrifying discovery inside the scorched frame of a sedan: the charred remains of an local woman, locked inside her own vehicle.
+
+Coroner reports and preliminary forensic checks indicate the victim did not die from a collision or mechanical failure. Traces of accelerants were found splashed across the interior, confirming the fire was intentionally set while the victim was still alive inside.
+
+"We are treating this incident as a targeted homicide of extreme brutality," stated a lead police spokesperson during an early morning briefing outside precinct headquarters. "Our forensic team is working around the clock to piece together the victim's final moments."
+
+Residents were quick to draw terrifying parallels to the notorious 2008 spree murders, which began with similar acts of targeted cruelty against local households. Panic spread further as unconfirmed reports from precinct insiders suggested that local surveillance footage showed a masked figure fleeing the scene moments after the vehicle was engulfed in flames.
+
+As fear grips Gyeong-gwan once more, local authorities have urged all citizens to keep their doors locked, report suspicious activity immediately, and avoid traveling alone after dark while the investigation unfolds.

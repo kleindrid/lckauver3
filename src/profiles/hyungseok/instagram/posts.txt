@@ -1,0 +1,75 @@
+# Moon — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 1, 2, 3, 4, 5, 6
+Location: 
+Time: 15 days AGO
+Likes: 842
+Saved: false
+Image: /assets/aistudio/moonpost1_084c4e0b.jpg
+Palette: #b45309, #451a03, #f59e0b
+Caption: Hi
+Comments:
+hyunjun | Hyunjun | hyunjun.c00 | 5h | Stop skipping morning lectures though.
+ghost | sua_02 | sua_02 | 15d | wait why did you cut your hair so good 😭
+chaewon | Baek Chaewon | chaewon.35mm | 15d | Didn't even recognize you in the hallway today.
+ghost | haneul.xoxo | haneul.xoxo | 14d | okay model?? answer my kakaotalk lol
+kwanghee | Kwanghee | kwanghee.k | 14d | bro finally remembered his password
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan 
+Time: 200 DAYS AGO
+Likes: 1120
+Saved: false
+Image: /assets/aistudio/moonpost2_aa8ce2c4.jpg
+Palette: #1d4ed8, #1e1b4b, #93c5fd
+Caption: 
+Comments:
+minhyung | Lee Minhyung | minhyung.lee | 200d | Why?
+ghost | yujin.ggu | yujin.ggu | 200d | miss seeing you around the quad!
+minseok | Minseok | rminseokk | 200d | delete this right now
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan Dorm Elevator
+Time: 6 DAYS AGO
+Likes: 965
+Saved: false
+Image: /assets/aistudio/moonpost3_752cf6e0.jpg
+Palette: #18181b, #3f3f46, #e4e4e7
+Caption: 
+Comments:
+mina | Song Mina | mina.arch | 6d | Wait which floor did you take this on?
+ghost | eunbi_03 | eunbi_03 | 6d | the elevator lighting is doing all the work honestly
+ghost | dain.ly | dain.ly | 6d | cute as always ♡
+hyunjun | Hyunjun | hyunjun.c00 | 5d | You literally went downstairs just for iced coffee and took a mirror pic.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan Alleyway
+Time: 10 DAYS AGO
+Likes: 784
+Saved: false
+Image: /assets/aistudio/moonpost4_5aa6c122.jpg
+Palette: #09090b, #27272a, #71717a
+Caption: Walking back after midnight.
+Comments:
+seoyun | Han Seoyun | seoyun.film | 10d | Good framing though, who took this?
+ghost | jiwon_k99 | jiwon_k99 | 10d | why does he look good even in a blurry alley pic
+dohyeon | Dohyeon | dohyeon.vip | 9d | Call me next time you're out past midnight.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: East Coast Beach
+Time: 28 DAYS AGO
+Likes: 1340
+Saved: false
+Image: /assets/aistudio/moonpost2_2861f898.jpg
+Palette: #0f172a, #1e3a8a, #93c5fd
+Caption: Freezing wind by the water.
+Comments:
+yuna | Park Yuna | yuna.ggu | 28d | Looks freezing!! 
+ghost | chaerin.kr | chaerin.kr | 28d | wait take me next time!!
+minhyung | Lee Minhyung | minhyung.lee | 27d | Best trip we took all year.

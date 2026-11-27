@@ -1,0 +1,76 @@
+# Wooje — X (Twitter) Posts
+# Add new posts separated by ---
+# Drop images in this folder and set Image: filename.jpg (or Image: none)
+
+Chapter: 1, 2, 3
+Time: 45m
+Likes: 53
+Reposts: 4
+Image: none
+Text: Wangho hyung barely sleeps anymore since the new neighbor moved in... wish he would let me help instead of shutting everyone out.
+
+---
+
+Chapter: 4
+Time: 19m
+Likes: 71
+Reposts: 6
+Image: none
+Text: Seeing the breaking news about the lieutenant and his wife made Wangho hyung go completely pale... 2008 is happening all over again, isn’t it?
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 3d
+Likes: 7
+Reposts: 0
+Image: none
+Text: Wangho hyung went to the library without waking me up!! Now I have to drink strawberry milk all by myself until Minseok gets out of lecture :(
+Comments:
+wangho | Wangho | @wangho_98 | 3d | You were asleep on the couch. Meet me by the library cafe in twenty.
+minseok | Minseok | @minseok_keria | 3d | AWW WOOJE!! Wait 15 mins my prof is almost done talking!!
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 5d
+Likes: 8
+Reposts: 0
+Image: none
+Text: Minseok bought me hotteok on the way home and Wangho hyung walked me back to the gate even though it wasn't even dark yet. I never want to hang out with anyone else tbh.
+Comments:
+hyunjun | Hyunjun | @hyunjunchoi | 5d | Literally glued to both of them 24/7
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 7d
+Likes: 6
+Reposts: 0
+Image: none
+Text: Texted Wangho hyung four times and Minseok twice just to ask what they're eating for dinner. Being the youngest means I get to be clingy.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 11d
+Likes: 7
+Reposts: 0
+Image: none
+Text: Minseok carried me in duo queue all night and even let me pick the dumbest top laner ever!! Next time I'm dragging Wangho hyung into voice chat too!!
+Comments:
+minseok | Minseok | @minseok_keria | 11d | ALWAYS DOWN!! Let's queue again after Thursday lecture!!
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 17d
+Likes: 6
+Reposts: 0
+Image: none
+Text: Tried playing Stardew Valley with Wangho hyung watching over my shoulder and he got mad I forgot to water my virtual crops :( still made him sit next to me tho
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 23d
+Likes: 8
+Reposts: 0
+Image: none
+Text: Lost three promos in a row so I'm officially switching to cozy cooking games until Minseok comes back online to carry me.
+
+

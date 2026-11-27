@@ -1,0 +1,18 @@
+id: ch4-new-officer-mail
+type: inbox
+from: Inspector Kang Minhyeok · GGPD
+email: kang.minhyeok@ggpd.gov.kr
+subject: Case Handover: Gyeong-gwan Task Force Reassignment
+preview: I have been assigned to take over the AllStar, Minhyung, and Chief Lieutenant homicides effective immediately.
+time: 14:16
+unread: true
+body: Officer Lee Sanghyeok,
+
+Following the passing of the Chief Lieutenant, Seoul Metropolitan Homicide & Internal Affairs have temporarily placed me in charge of the Gyeong-gwan task force.
+
+I reviewed your undercover placement inside the university and the interrogation files recovered before the station blackout. Because the precinct network may have been compromised, I am avoiding WhatsApp and reaching out strictly through encrypted mail.
+
+Do NOT share your findings with anyone else. Report to this address only when you have verified concrete evidence.
+
+Inspector Kang Minhyeok
+Special Investigation Unit · Gyeong-gwan

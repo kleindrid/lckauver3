@@ -1,0 +1,56 @@
+chapter: 6
+
+---
+title: 2008 Baby Case
+updatedAt: Oct 26 · 08:20
+body: MISSING CHILD LEAD — 2008 GYEONG-GWAN HOME INVASION (HAN INFANT)
+- October 29, 2008 Incident: During the final 2008 break-in, Han Wangho's parents were killed while Wangho hid inside a closet. His ~20-month-old infant brother vanished from his crib the same night with zero ransom contact.
+- Police Trail: Search dogs lost the infant's scent roughly 400m from the house near the old rail overpass; the rabbit costume was later abandoned in a riverfront shed.
+- Wangho's Warning (Bistro): Wangho believes the 2008 killer—or an accomplice—is still tied to Gyeong-gwan and warned me to watch university newcomers who appeared without clear family records.
+- Age & Timeline Match: Any surviving child abducted as a baby in late 2008 would now be roughly 19–20 years old—university freshman/sophomore age.
+
+---
+trigger: ch6_morning_call
+title: Day 6 Morning — Precinct Call & Viper (08:15)
+updatedAt: Oct 26 · 08:17
+body: INTERCEPTED PRECINCT CALL — INSPECTOR KANG & DOHYEON
+- Viper's Rogue Access: Dohyeon stormed the precinct demanding the right to investigate. He has been using his father's police badge and credentials to probe local police patrols on his own.
+- Unreported Death Claim: Dohyeon claimed someone died last night—though he didn't know who yet—and insisted he learned it through his own investigation.
+- Restraining Order Incident: Right as Dohyeon was escorted out, a woman barged into Inspector Kang's office demanding a restraining order against Han Wangho. When the inspector told her those matters weren't handled by him, she insisted on speaking with someone in charge right before the call cut out.
+
+---
+trigger: ch6_hyunjun_morning
+title: Day 6 Morning — Hyunjun & Dorm Updates (08:22)
+updatedAt: Oct 26 · 08:27
+body: MORNING CHECK-IN WITH HYUNJUN
+- Moon: Has been skipping all his university classes lately.
+- Ryu Minseok: Still haven't had time to speak with Minseok; need to follow up right away.
+- Hyunjun's Status: Police barred him from leaving Gyeong-gwan (told him he can stay home if he wants, so he isn't leaving for now). Visibly angry at being treated like a suspect; reassured him to stay calm and indoors.
+
+---
+trigger: ch6_wangho_geumjae
+title: Day 6 — Wangho's Obsession & Geumjae (10:52)
+updatedAt: Oct 26 · 10:52
+body: WANGHO SOCIAL CHECK & CONFRONTATION
+- Wangho's Socials: Posted repeatedly about the Gyeong-gwan Old District ("I think I finally found him", "Grr I know it's him, just let me prove it"). No direct violence, just intense fixation on proving an identity.
+- Restraining Order Caller: Police called Wangho—Geumjae's mother is the neighbor trying to file a report/restraining order to keep Wangho away.
+- Wangho's Theory: Insists Geumjae is his abducted baby brother because everything matches, calls Geumjae's mother "crazy", and wonders if she has ties to the 2008 killer.
+- My Stance: Told him a protective mother during a serial murder spree is normal, promised to help check quietly, and warned him he must respect Geumjae's decision if he wants no contact.
+
+---
+trigger: ch6_missing_baby_archive
+title: Day 6 — 2008 Missing Children Archive Lead (10:56)
+updatedAt: Oct 26 · 10:56
+body: ONLINE ARCHIVE SEARCH ("2008 MISSING CHILDREN SOUTH KOREA")
+- Registry #GG-0814: A witness spotted a woman carrying a crying toddler in a dark wool blanket near the rail overpass two days after the 2008 Gyeong-gwan home invasion.
+- Irregular Birth Filing: Civil records flagged a delayed November 2008 birth registration under a newly relocated guardian—never DNA-checked after the original lead detective retired.
+- Cold Case Forum Lead: Rumors point to a woman who once worked domestic shifts in the Old District relocating right after the attack and returning this semester—threatening police complaints whenever questioned. If Geumjae is Wangho's missing brother, the woman raising him is a prime suspect.
+
+---
+trigger: ch6_kyu_doorstep
+title: Day 6 Evening — Minseok Missing (17:40)
+updatedAt: Oct 26 · 17:45
+body: DOORSTEP VISIT AT SEONGNAM SIDE-STREET HOUSE
+- Encounter with Kyu: Kim Hyukkyu answered the door and initially refused to accept Minhyung's belongings from a stranger. After I explained I was Minhyung's dormmate, assured him I meant no harm, and offered to meet at another place or time, he opened up.
+- Minseok's Disappearance: Kyu revealed Ryu Minseok has been missing since yesterday.
+- Fight & Kwanghee Lead: Following an intense argument between them, Kyu suspects Minseok ran off with Kwanghee—and says he doesn't know where Minseok is or if he will come back.

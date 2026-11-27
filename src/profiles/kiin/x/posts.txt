@@ -1,0 +1,78 @@
+# Kiin — X (Twitter) Posts
+# Add new posts separated by ---
+# Drop images in this folder and set Image: filename.jpg (or Image: none)
+
+Chapter: 1, 2, 3
+Time: 18h
+Likes: 1480
+Reposts: 642
+Image: /assets/aistudio/kiinpost3_18317b9e.jpg
+Text: ERROR REIGNITED: Five AllStar band members dead in Gyeong-gwan garage fire & original 2008 rabbit costume stolen from the police vault. Police urge residents to stay indoors after dark.
+Comments:
+ghost | Gyeong-gwan Resident | @gg_citizen_08 | 17h | How does an actual piece of serial-killer evidence just disappear out of a locked police vault?!
+ghost | Minji Press | @minji_press | 16h | Kiin is the only journalist in this city willing to print what the precinct won't admit.
+ghost | True Crime KR | @kr_casefiles | 14h | The 2008 pattern is identical. Stay safe out there tonight.
+ghost | Gyeong-gwan Herald Reader | @herald_reader | 12h | Just read the full article on your site. Chilling details about the torture marks.
+ghost | Press Watch | @press_watch_kr | 10h | Police briefing refused to answer half of Kiin's questions—says everything.
+
+---
+Chapter: 2, 3, 4
+Time: 12h
+Likes: 920
+Reposts: 315
+Image: /assets/aistudio/kiinpost2_ec64e2cc.jpg
+Text: Patrol units sweeping Gyeong-gwan alleyways at dusk as witnesses continue refusing on-record interviews.
+Comments:
+ghost | Old District Watch | @old_district_watch | 11h | Maybe witnesses would talk if the police actually caught whoever broke into their own station.
+ghost | Press Guild | @seoul_press_desk | 9h | Keep pressing the Chief Inspector's office, Kiin. Someone inside knows more.
+ghost | Local Storefront | @commercial_st_shop | 7h | Closed our shutters at 6 PM tonight. Precinct cars have been circling nonstop.
+
+---
+Chapter: 1, 2, 3, 4
+Time: 14d
+Likes: 640
+Reposts: 198
+Image: /assets/aistudio/kiinpost1_db432ed1.jpg
+Text: Pulling old regional print archives from the 2008 case file before filing tonight's column.
+Comments:
+ghost | Investigative Desk | @archival_ink | 14d | Always appreciate real legwork through physical print records instead of rumor threads.
+ghost | Anon Tip | @anon_gg_2008 | 13d | Look closely at who transferred out of the precinct in November 2008.
+
+---
+Chapter: 5, 6, 7
+Time: 3h
+Likes: 2890
+Reposts: 1120
+Image: none
+Text: To the viral podcast duo turning Gyeong-gwan's murders into drinking games and suspect polls: fabrication is not reporting, and the backlash you're catching right now is long overdue.
+Comments:
+ghost | Press Watch | @press_watch_kr | 2h | Glad someone with actual press credentials finally called @TwinSkullsLive out publicly.
+ghost | Civic Desk | @civic_reporter_k | 1h | Their subscriber count has been cratering all afternoon and they earned every bit of it.
+
+---
+Chapter: 4
+Time: 14m
+Likes: 3120
+Reposts: 1490
+Image: none
+Text: BREAKING: Lead homicide lieutenant and his wife found murdered inside their home before dawn. Sources say every phone, computer, and evidence drive inside the residence was smashed.
+Comments:
+ghost | Legal Watch KR | @legalwatch_kr | 12m | The lead investigator killed AND all party footage destroyed in one night?? That's an inside job.
+ghost | Night Shift | @gg_nightshift | 10m | If the killer can walk into a police lieutenant's house, nobody in Gyeong-gwan is safe.
+ghost | Civic Desk | @civic_reporter_k | 7m | Unreal reporting speed, Kiin. Please don't walk back to your office alone tonight.
+ghost | Forensic Notes | @forensic_kr | 5m | Smashing every hard drive means the killer knew exactly which recordings the lieutenant took home.
+ghost | GGU Student | @ggu_anon_24 | 3m | Half my dorm is packing up to leave town right now. Thank you for actually telling us the truth.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 5d
+Likes: 9
+Reposts: 2
+Image: none
+Text: Still digging through 2008 municipal microfiche at 11 PM because official press summaries always skip the footnotes.
+Comments:
+ghost | Archival Ink | @archival_ink | 5d | Black coffee and dusty binders, classic Kiin night.
+
+
+
+

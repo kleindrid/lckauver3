@@ -1,0 +1,55 @@
+# Atualizações e notas adicionadas ao Journal durante o decorrer da história
+# Cada bloco é separado por --- e possui id: e text:
+
+id: ch6_wangho
+text: Update (10:52): Checked Wangho's social feeds—nothing violent, only an obsession over proving someone in his neighborhood is his brother. Soon after, Wangho messaged saying a neighbor called the police to file a report on him; he insists Geumjae is his missing brother and suspects Geumjae's adoptive mother may be tied to the 2008 killer.
+
+---
+
+id: ch6_safari
+text: Update (10:56): Searched online for the 2008 missing children records in South Korea. Archived bulletins describe a woman seen carrying a bundled toddler near the rail overpass two days after the attack—and an irregular late birth filing in November 2008 tied to a former Old District household worker. Wangho's suspicion about that resident can't be dismissed anymore.
+
+---
+
+id: ch6_kang_hyunjun
+text: Update (17:13): Checked Geumjae's socials—nothing useful, not even a photo of him. Sent an encrypted email to Inspector Kang asking if there were any sealed files on Wangho's brother, then liked two of Minseok's Instagram posts and sent him a polite DM explaining I was Minhyung's dormmate and had some things he left behind. Kang replied that neither he nor his colleagues have anything beyond published records, noted the woman at the station wanted a restraining order because Wangho kept following her family asking for a DNA test, and stressed our priority is identifying the killer. Two hours passed with still no reply from Minseok, so I asked Hyunjun where he lives—Seongnam Side-Street House off Seongnam-ro, shared with Jung Jihoon and Kim Hyukkyu. Heading over now to take Minhyung's things to him.
+
+---
+
+id: ch6_kyu
+text: Update (17:45): Reached the Seongnam side-street house Hyunjun gave me, only for Kim Hyukkyu (Kyu) to answer the door. He refused to take anything from a stranger at first until I explained I was Minhyung’s dormmate, posed no danger, and offered to meet elsewhere at another time. Kyu then admitted Minseok has been missing since yesterday, he suspects Minseok fled with Kwanghee after an intense fight between them, and says he has no idea where Minseok is or whether he’ll ever come back.
+
+---
+
+id: ch6_wangho_night
+text: Update (22:08): Messaged Wangho back at 22:00 to tell him neither online records nor my police contacts turned up anything more about his brother, though I promised to do everything I can to persuade Geumjae into taking a DNA test just to give everyone peace of mind. Wangho opened up more than ever—admitting he feels lost, surprised I trusted him so fast, and grateful to finally speak freely with someone his own age without pressure or judgment. Turning in for the night now; there is still far too much left to uncover tomorrow.
+
+---
+
+id: ch7_minseok_dm
+text: Update (16:10): Checked Kyu's furious posts alongside Jihoon's unsettling remarks on X, plus Jihoon's Sunday night food-stop story with Suhwan and Siwoo's 4:00 AM Monday gas station story tagging Dohyeon on Instagram, then Minseok finally replied to my Instagram DM at 16:00. Shaken and afraid to return home with police suspecting him and the others, he confirmed he still wants Minhyung's belongings. Playing along as though I hadn't heard Kang's recording, I listened as Minseok opened up about the abduction, Kwanghee's disappearance, walking over 20 km injured through the woods, and fearing the killer inside his own home. Offered to let him stay with me if it helps, without lying that anywhere in Gyeong-gwan is safe.
+
+---
+
+id: ch7_kang_report
+text: Update (16:12): After talking with Minseok and returning to my thoughts, I emailed Inspector Kang to report what I found—Jihoon allegedly being at McDonald's with Suhwan on Sunday night, and Son Siwoo being out with Park Dohyeon at 4:00 AM Monday. I asked Kang to check whether Kyu was at the hospital even though Minseok said he had just returned from his shift, and to pull the McDonald's security camera footage to verify when Jihoon arrived and left.
+
+---
+
+id: ch7_wangho_urgent
+text: Update (16:19): Right after I emailed Inspector Kang, Wangho sent an urgent message—Geumjae unexpectedly showed up at his house and agreed to take the DNA test, on the condition that it stays completely secret from his mother. Wangho was anxious about her finding out and causing a scene, so I told him I'd meet him at the hospital and wait with him. Even though he thanked me and worried about wasting my time, I made sure he knew I want to help however I can—finding the truth behind 2008 has become personal to me too, and if the woman shows up, I can try talking her down quietly without making a scene.
+
+---
+
+id: ch7_hospital
+text: Update (19:10): Met Wangho outside the blood draw room at Gyeong-gwan General Hospital at 19:00 while Geumjae went inside for the DNA test. Keeping watch near the glass doors, I caught Wooje lurking behind an outpatient brochure pillar with his hood up in a limited-edition embroidered designer jacket—either tailing Wangho or acting as a lookout. Moving casually toward the water dispenser to avoid tipping him off, I also spotted Son Siwoo at the ER pharmacy desperately trying to push through an unsigned controlled-medication prescription with crumpled bills and loose change before bolting past me prior to security arriving. Stayed calm to reassure Wangho while logging both sightings into a pocket note as Wooje slipped out the automatic doors.
+
+---
+
+id: ch7_wangho_night
+text: Update (19:51): Returned to Dorm 304 after the hospital. Wangho texted thanking me for coming and worried over not knowing when Geumjae's DNA results would come out; I told him lab matches can take a few days and urged him not to stress tonight. For a few moments that quiet closeness between us crept back in again before he said he was heading out to game with Wooje and we promised to talk tomorrow. Still—I can't shake what Wooje was actually doing lurking in that hospital hallway earlier, even if Wangho told me not to suspect him.
+
+---
+
+id: ch7_kang_night
+text: Update (19:56): Inspector Kang just sent a confidential email ordering me to meet him at precinct headquarters tonight—sending an unmarked unit to escort me quietly so nobody catches us together. They pulled the McDonald's security cameras along with CCTV from several nearby establishments and caught clear suspect movement. Heavy work ahead before dawn.

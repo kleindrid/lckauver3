@@ -1,0 +1,48 @@
+# Lee Minhyung — X (Twitter) Posts
+# Add new posts separated by ---
+# Drop images in this folder and set Image: filename.jpg (or Image: none)
+
+Chapter: 1, 2, 3, 4
+Time: 2h
+Likes: 114
+Reposts: 12
+Image: none
+Text: wtf...
+Comments:
+ghost | seojun | @seojun_16mm | 1h | did premiere crash before you hit save again or what
+ghost | haeun | @haeun_edits | 50m | wait are you talking about the AllStar news?? check our film lab group chat
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Badge: 304
+Community: university
+Time: 3d
+Likes: 8
+Reposts: 1
+Image: none
+Text: Just finished color grading scene four and honestly? Every other student short at the Busan showcase is competing for second place.
+Comments:
+minseok | Minseok | @minseok_keria | 3d | PROUD OF YOU DIRECTOR LEE!! SEND ME THE LINK FIRST WHEN IT DROPS!!
+hyungseok | Moon | @moon_watch | 3d | big talk for someone who forgot to plug in his mic during test shooting
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 5d
+Likes: 9
+Reposts: 2
+Image: none
+Text: Shooting handheld on 16mm down the old overpass stairs tomorrow. Give me five years and y'all will be bragging you shared a dorm kitchen with me.
+Comments:
+hyunjun | Hyunjun | @hyunjunchoi | 5d | Just please don't block the front stairwell with tripod gear at 1 AM again
+wangho | Wangho | @wangho_98 | 5d | Remind me before you leave so I can unlock the side gate for you.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 8d
+Likes: 7
+Reposts: 0
+Image: none
+Text: People think lighting a night alley is luck until they see how clean my shadows hit the concrete. Cinema isn't dead, 
+Comments:
+chaewon | Baek Chaewon | @chaewon_film | 8d | Zero humility as usual, let me borrow your 50mm lens Thursday tho
+

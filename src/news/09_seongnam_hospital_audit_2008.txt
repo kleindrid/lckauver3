@@ -1,0 +1,12 @@
+id: seongnam-hospital-audit-2008
+order: 9
+source: seoul-herald.kr · National Investigative Report
+headline: 2009 AUDIT REVEALS LOOPHOLES IN DELAYED HOME-BIRTH REGISTRATIONS AFTER 2008 MISSING CHILDREN SOUTH KOREA WAVE
+byline: By National Civic Desk · Archived Public Report
+
+---
+heading: DELAYED REGISTRATIONS WITHOUT MATERNITY VERIFICATION
+text:
+Following public outrage over unresolved 2008 missing children cases across South Korea, an internal municipal audit uncovered dozens of late birth certificates issued in November–December 2008 using witness affidavits instead of hospital delivery slips.
+
+Child protection advocates warned that an abducted infant could easily be given a new surname and enrolled in primary school years later without triggering national missing-child DNA databases.

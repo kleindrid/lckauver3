@@ -1,0 +1,12 @@
+id: ch7-mail-sanghyeok-class-reply
+type: compose
+to: kang.minhyeok@ggpd.gov.kr
+subject: Re: Urgent — Are you in class right now?
+time: 10:01
+body: Inspector Kang,
+
+I'm sitting at the back of my morning lecture hall right now. I'll get off this class soon.
+
+Send Minseok's statement audio over immediately.
+
+Lee Sanghyeok

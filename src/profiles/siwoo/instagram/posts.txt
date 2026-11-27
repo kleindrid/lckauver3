@@ -1,0 +1,41 @@
+# Siwoo — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 2, 3, 4, 5, 6
+Location: Gyeong-gwan Hills Villa
+Time: 25 MINUTES AGO
+Likes: 745
+Saved: false
+Image: /assets/aistudio/siwoopost1_58206fba.jpg
+Palette: #dc2626, #450a0a, #f87171
+Caption: 
+Comments:
+ghost | k_shadow88 | k_shadow88 | 25m | you still owe me 
+ghost | noface_gg | noface_gg | 20m | watch your back tonight
+ghost | razor_091 | razor_091 | 15m | bro
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Sidewalk Behind Commercial St
+Time: 9 HOURS AGO
+Likes: 892
+Saved: false
+Image: /assets/aistudio/siwoopost3_e7c90dfa.jpg
+Palette: #7f1d1d, #18181b, #ef4444
+Caption: Walked out the back alley and nearly tripped over this. Someone's having a bad night.
+Comments:
+mingyu | Mingyu | lastfmrobbott | 8h | Tell me you didn't actually leave it there.
+ghost | alleyrat_99 | alleyrat_99 | 8h | looks like what happened to the last guy who talked too much behind commercial st
+ghost | darklane_kr | darklane_kr | 7h | shouldn't be taking pictures back there bro
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Downtown Arcade
+Time: 1 DAY AGO
+Likes: 1040
+Saved: false
+Image: /assets/aistudio/siwoopost2_7e4a844f.jpg
+Palette: #991b1b, #27272a, #fca5a5
+Caption: Creepy 
+Comments:

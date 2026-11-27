@@ -1,0 +1,99 @@
+# Dohyeon — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan Hills Villa
+Time: 1 HOUR AGO
+Likes: 1240
+Saved: false
+Image: none
+Palette: #312e81, #7c3aed, #ec4899
+Caption: 
+Comments:
+kwanghee | Kwanghee | kwanghee.k | 1h | Gate code still the same?
+ghost | sora_vip | sora_vip | 1h | saving a spot next to you tonight 🥂
+ghost | yeonwoo.xx | yeonwoo.xx | 1h | text me back before I pull up uninvited
+ghost | hyeon_b | hyeon_b | 48m | save the top shelf stuff for after midnight man
+ghost | lina_seoul | lina_seoul | 35m | see you at 9 ♡
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Incheon International Terminal
+Time: 30 DAYS AGO
+Likes: 1890
+Saved: false
+Image: /assets/aistudio/dohyeonpost3_12369d1c.jpg
+Palette: #1e1b4b, #4c1d95, #a78bfa
+Caption: Back in.
+Comments:
+siwoo | Siwoo | siwoo.afterhours | 30d | Tell me you brought back the good stuff.
+ghost | miyeon_l | miyeon_l | 30d | finally back in town 👀 missed you
+kwanghee | Kwanghee | kwanghee.k | 29d | Villa tonight or what
+ghost | yuna.k_98 | yuna.k_98 | 29d | bring me duty free chocolate next time!!
+ghost | minho_vip | minho_vip | 28d | welcome back bro, everyone's waiting at the lounge
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Seoul Underground Meet
+Time: 5 DAYS AGO
+Likes: 1650
+Saved: false
+Image: /assets/aistudio/dohyeonpost2_41abbcd1.jpg
+Palette: #1e1b4b, #4c1d95, #eab308
+Caption: I love it there
+Comments:
+siwoo | Siwoo | siwoo.afterhours | 5d | You didn't tell me you were down there without us.
+soyeon | Kang Soyeon | soyeon.canvas | 5d | The lighting in this shot looks like a movie still.
+ghost | nari_01 | nari_01 | 5d | take me on a late drive like this sometime
+ghost | chloe.seoul | chloe.seoul | 4d | unfair how good you look in dark lighting
+ghost | jisu_m | jisu_m | 4d | wait you were in Seoul and didn't text?? rude
+ghost | ryan_gt | ryan_gt | 4d | clean lineup that night 🔥
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Han River Terrace
+Time: 12 DAYS AGO
+Likes: 1420
+Saved: false
+Image: /assets/aistudio/dohyeonpost4_f0d176e4.jpg
+Palette: #0f172a, #1e293b, #16a34a
+Caption: City stays awake.
+Comments:
+ghost | haerin_b | haerin_b | 12d | pouring one without me? rude.
+ghost | taeho_k | taeho_k | 12d | Save that bottle for Friday night man.
+kwanghee | Kwanghee | kwanghee.k | 11d | Classic Dohyeon terrace view.
+ghost | sohee_99 | sohee_99 | 11d | why do you only answer dms at 2am 😭
+ghost | dave_h | dave_h | 10d | best rooftop view in the city easily
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Main Stage Backstage
+Time: 24 DAYS AGO
+Likes: 2110
+Saved: false
+Image: /assets/aistudio/dohyeonpost1_263e2ef6.jpg
+Palette: #312e81, #ec4899, #f8fafc
+Caption: Old jersey still fits.
+Comments:
+ghost | jiu.m | jiu.m | 24d | still my favorite photo of you ♡
+ghost | minah_xx | minah_xx | 24d | why does an old jersey look better on you than half my closet
+siwoo | Siwoo | siwoo.afterhours | 23d | Back when you actually answered your phone.
+ghost | yeji.kr | yeji.kr | 23d | okay backstage pass 👀
+ghost | k_junho | k_junho | 22d | legend status honestly
+
+---
+Chapter: 1, 2, 3, 4, 5, 6, 7
+Location: Cheongdam-dong, Seoul
+Time: 210 DAYS AGO
+Likes: 2480
+Saved: false
+Image: /assets/aistudio/image_b086f47b.png
+Palette: #18181b, #27272a, #e4e4e7
+Caption: Limited drop finally touched down.
+Comments:
+wooje | Wooje | wooje.days | 210d | wait that sleeve embroidery is unreal, let me borrow that sometime
+siwoo | Siwoo | siwoo.afterhours | 209d | of course only you could track down that edition
+ghost | minah_xx | minah_xx | 209d | the silver cross + jacket combo hits different 🔥
+ghost | ryan_gt | ryan_gt | 208d | clean piece bro
+

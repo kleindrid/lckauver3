@@ -1,0 +1,13 @@
+id: e2
+type: inbox
+category: initial
+order: 2
+from: Gyeong-gwan Municipal Alert
+email: alerts@gyeonggwan.gov
+subject: URGENT: Nighttime Safety Advisory Issued
+preview: Residents are urged to stay indoors after dark following recent violent incidents.
+time: 00:40
+unread: false
+body: OFFICIAL BULLETIN
+
+Following the brutal murders at the AllStar rehearsal garage, municipal authorities and law enforcement have increased nighttime patrols across Gyeong-gwan and urged residents to remain indoors after dark.

@@ -1,0 +1,19 @@
+chapter: 4
+
+---
+title: Day 4 — Precinct Chief Assassinated
+updatedAt: Oct 25 · 08:30
+body: URGENT CASE FILE — GYEONG-GWAN
+- Chief Lieutenant and his wife were murdered inside their home before dawn today.
+- Every electronic device inside the residence (laptops, backup drives, phones, and the party video footage Dohyeon handed over last night) was systematically smashed and destroyed.
+- My primary police contact is gone. Maintaining Dorm 304 cover until I locate surviving evidence.
+
+---
+trigger: ch4_hyunjun_clue
+title: Day 4 Lead — Siwoo & Ryu Minseok
+updatedAt: Oct 25 · 08:55
+body: PRIVATE INTERVIEW — HYUNJUN (DORM 304-A)
+- After panicking in the Dorm 304 group chat about leaving Gyeong-gwan, Hyunjun opened up privately.
+- Eyewitness lead: On the night of Dohyeon's party, Son Siwoo repeatedly followed Lee Minhyung from room to room and toward the rear patio.
+- Crucial detail: Minhyung ran a famous YouTube channel and loved filming constantly—Siwoo almost certainly appeared in Minhyung's party footage.
+- Second lead: Hyunjun also named classmate Ryu Minseok, who hung out with Minhyung constantly between morning lectures and may know about his accounts.

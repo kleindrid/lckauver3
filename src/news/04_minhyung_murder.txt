@@ -1,0 +1,30 @@
+id: minhyung-murder
+order: 4
+source: gyeonggwan-herald.kr · Breaking Crime
+headline: UNIVERSITY STUDENT FOUND DEAD IN WOODS NEAR PRIVATE RESIDENCE HOURS AFTER HOUSE PARTY
+byline: By Kim K. & Kiin · Gyeong-gwan Crime Desk (Saturday, Oct 24)
+
+---
+heading:
+text:
+GYEONG-GWAN — Police cordoned off a steep wooded hillside near Seongnam Ridge early Saturday morning after a local groundskeeper discovered the lifeless body of a young university student hidden in thick undergrowth roughly two hundred meters from a private villa where dozens of guests had gathered the night before.
+
+Authorities have officially identified the victim as 24-year-old Lee Minhyung, a student residing at Dorm 304 on Seongnam-ro. Paramedics pronounced him dead at the scene just after 08:30 AM.
+
+According to initial precinct statements, the gathering—hosted at the residence of well-connected local resident Dohyeon—ran late past midnight with loud music and heavy foot traffic along the driveway.
+
+---
+heading: NO SIGNS OF ACCIDENTAL FALL
+text:
+Investigators quickly ruled out an accidental fall or medical emergency. Evidence markers lined the narrow dirt path leading from the villa’s rear garden fence into the treeline, and forensic teams spent four hours photographing drag marks in the damp pine needles.
+
+Though police declined to disclose whether the stolen 2008 rabbit mask or signature restraint marks were present at the scene, witnesses confirmed detective units sealed off the entire ridge road before sunrise.
+
+"We are treating this death as a homicide," a precinct spokesperson told reporters gathered outside the perimeter gate. "Every single person who attended last night’s gathering—or walked near the ridge after midnight—is being summoned for formal questioning today."
+
+---
+heading: PANIC INSIDE DORM 304
+text:
+Word of Minhyung’s murder tore through university circles within an hour, hitting Dorm 304 hardest where the victim lived alongside three housemates.
+
+Students who left the party before 01:00 told reporters the side gate behind Dohyeon’s patio had been left unlatched all evening despite assurances of private security. Gyeong-gwan Police Headquarters is urging anyone with photos, call logs, or dashcam footage from Seongnam Ridge between 23:00 and 03:00 to report immediately.

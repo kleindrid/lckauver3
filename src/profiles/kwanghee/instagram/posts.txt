@@ -1,0 +1,46 @@
+# Kwanghee — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 2, 3, 4, 5, 6
+Location: Gyeong-gwan Hills Villa
+Time: 21 days AGO
+Likes: 1140
+Saved: false
+Image: /assets/aistudio/kwangheepost2_a80acf96.jpg
+Palette: #be185d, #31102f, #831843
+Caption: 
+Comments:
+siwoo | Siwoo | siwoo.afterhours | 28m | nah bro 
+ghost | dj_taeyang99 | dj_taeyang99 | 21d | Villa audio was shaking the windows that night lmao
+ghost | rina.afterdark | rina.afterdark | 21d | who still has the champagne videos from the pool deck??
+dohyeon | Dohyeon | dohyeon.vip | 20d | Tell everyone to stop tagging my address in stories.
+ghost | jay_k_night | jay_k_night | 20d | best party this whole semester hands down
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan Rose Garden Park
+Time: 45 DAY AGO
+Likes: 1380
+Saved: false
+Image: /assets/aistudio/kwangheepost1_df37e57c.jpg
+Palette: #9d174d, #1f2937, #f472b6
+Caption: Morning.
+Comments:
+kyu | Kyu | kyuhyukim | 21h | Spoiling that dog again.
+ghost | juno_club | juno_club | 45d | how are you awake at 8am after last night
+ghost | minji_party | minji_party | 44d | recover fast we're going out again Friday lol
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Coastal Highway · Night
+Time: 300 DAYS AGO
+Likes: 985
+Saved: false
+Image: /assets/aistudio/kwangheepost3_c074ff0b.jpg
+Palette: #18181b, #31102f, #be185d
+Caption: Past the checkpoint.
+Comments:
+kyu | Kyu | kyuhyukim | 300d | Never letting you drive the aux cord on the coast road again.
+ghost | vince_00 | vince_00 | 299d | coastal run back to the clubs >>
+ghost | sora_vip | sora_vip | 299d | who brought the bottle for the ride lol

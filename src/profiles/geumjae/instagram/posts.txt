@@ -1,0 +1,12 @@
+# Geumjae — Instagram Posts
+# Uncomment and edit the template below to add a post for Geumjae.
+# Drop images in this folder and set Image: filename.jpg (or Image: none)
+
+# Chapter: 1
+# Location: Gyeong-gwan
+# Time: 1 HOUR AGO
+# Likes: 0
+# Saved: false
+# Image: none
+# Palette: #0d9488, #042f2e, #2dd4bf
+# Caption: Your caption here.

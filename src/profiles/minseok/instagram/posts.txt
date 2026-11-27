@@ -1,0 +1,101 @@
+# Minseok — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 1, 2, 3, 4, 5, 6
+Location: 
+Time: 102 DAYS AGO
+Likes: 196
+Saved: false
+Image: /assets/aistudio/minseokpost3_826f3849.jpg
+Palette: #78350f, #d97706, #fde68a
+Caption: 
+Comments:
+kyu | Kyu | kyuhyukim | 102d | cute
+wooje | Wooje | wooje.days | 102d | Wait this is actually adorable hyung!!
+kwanghee | Kwanghee | kwanghee.k | 101d | rare cute post without ten paragraphs attached
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Seoul
+Time: 33 DAYS AGO
+Likes: 248
+Saved: false
+Image: /assets/aistudio/minseokpost1_4964650e.jpg
+Palette: #d97706, #78350f, #fef3c7
+Caption: ITS SONIC!
+Comments:
+wooje | Wooje | wooje.days | 33d | WHY DIDN'T YOU TAKE ME WITH YOU HYUNG
+jihoon | Jihoon | jihoonjjjj | 33d | you dragged me across three subway transfers for this
+minhyung | Lee Minhyung | minhyung.lee | 32d | peak cinema right here
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Seoul-bound Morning Flight
+Time: 90 DAYS AGO
+Likes: 315
+Saved: false
+Image: /assets/aistudio/minseokpost2_d180266c.jpg
+Palette: #0369a1, #1e293b, #7dd3fc
+Caption: <3>
+Comments:
+jihoon | Jihoon | jihoonjjjj | 90d | Text when you land.
+kyu | Kyu | kyuhyukim | 90d | Don't forget your jacket at the gate again.
+wooje | Wooje | wooje.days | 90d | Bring me snacks back!!
+kwanghee | Kwanghee | kwanghee.k | 89d | safe flight, don't sleep through the pickup
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Student Lounge Table
+Time: 54 DAY AGO
+Likes: 174
+Saved: false
+Image: /assets/aistudio/minseokpost4_6bcad0f8.jpg
+Palette: #334155, #0f172a, #94a3b8
+Caption: Why are there fifteen phones charging on one table and zero free outlets?
+Comments:
+hyunjun | Hyunjun | hyunjun.c00 | 54d | Two of those are mine sorry I have a lab in twenty minutes 😭
+hyungseok | Moon | moon.002 | 54d | Because half the CS department lives in that lounge
+minhyung | Lee Minhyung | minhyung.lee | 53d | Try editing on 4% battery next to them, pure survival horror
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Humanities Hall · 3F
+Time: 65 DAY AGO
+Likes: 229
+Saved: false
+Image: /assets/aistudio/minseokpost4_cc37a68c.jpg
+Palette: #475569, #1e293b, #cbd5e1
+Caption: i love   what   riding a bike    ;-;
+Comments:
+kwanghee | Kwanghee | kwanghee.k | 65d | did you almost fall off on the campus hill again
+wooje | Wooje | wooje.days | 65d | Hyung are your knees okay??
+hyunjun | Hyunjun | hyunjun.c00 | 64d | Please take the bus next time, the hill by 3F is way too steep
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Kyu & Jihoon’s Apartment
+Time: 130 DAYS AGO
+Likes: 162
+Saved: false
+Image: /assets/aistudio/minseokpost5_de04ade9.jpg
+Palette: #78350f, #451a03, #fde68a
+Caption: blue
+Comments:
+kyu | Kyu | kyuhyukim | 130d | Pick up your mug before you leave for lecture.
+jihoon | Jihoon | jihoonjjjj | 130d | you stood on the sofa for ten minutes just for this angle
+hyungseok | Moon | moon.002 | 129d | Actually pretty clean shot
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Campus Gym Hallway
+Time: 340 DAYS AGO
+Likes: 287
+Saved: false
+Image: /assets/aistudio/minseokpost6_de6e8038.jpg
+Palette: #18181b, #27272a, #71717a
+Caption: babyria
+Comments:
+minhyung | Lee Minhyung | minhyung.lee | 340d | Throwback framing goes hard honestly
+hyungseok | Moon | moon.002 | 339d | How did you even find this photo lmao
+kwanghee | Kwanghee | kwanghee.k | 339d | no way you actually posted this

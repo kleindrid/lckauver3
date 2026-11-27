@@ -1,0 +1,55 @@
+chapter: 3
+
+---
+title: Day 3 Update — Moon
+updatedAt: Oct 24 · 22:15
+body: DORM 304 FOLLOW-UP SHEET
+Name: Moon · Room: 304-B
+
+Day 3 Status:
+- Confrontational about my late-night absences after midnight.
+- Keeps watching the front stairwell whenever I return to Dorm 304; 
+
+---
+title: Day 3 Update — Hyunjun
+updatedAt: Oct 24 · 22:05
+body: DORM 304 FOLLOW-UP SHEET
+Name: Hyunjun · Room: 304-A
+
+Day 3 Status:
+- Locked inside Room 304-A with duffel bag packed beside the door.
+- Pressuring everyone in Dorm 304 to leave Gyeong-gwan before the weekend ends.
+
+---
+if_alive: minhyung
+title: Day 3 Update — Lee Minhyung
+updatedAt: Oct 24 · 21:50
+body: DORM 304 FOLLOW-UP SHEET
+Name: Lee Minhyung · Room: 304-C
+
+Day 3 Status:
+- Stayed in the common kitchen late into the night without speaking about the news updates.
+- Still checking his desk transit maps every evening; motive and routine remain guarded.
+
+---
+if_dead: minhyung
+title: Day 3 Update — Lee Minhyung (DECEASED)
+updatedAt: Oct 24 · 10:15
+body: DORM 304 CASE UPDATE
+Name: Lee Minhyung · Room: 304-C
+Status: DECEASED — Body found in the woods behind Dohyeon's residence.
+
+Investigation Log:
+- Murdered hours after confronting me about my notes and attending Dohyeon's party.
+- Precinct questioning ordered for every party attendee, including Dorm 304 residents.
+- Need to cross-check Dohyeon's guest list, Moon's whereabouts, and Siwoo's missing 30-minute window.
+
+---
+if_dead: minhyung
+trigger: dossiers_unlocked
+title: Day 3 Night — Precinct Interrogation Notes
+updatedAt: Oct 24 · 20:45
+body: POST-INTERROGATION SUMMARY
+- Attended formal questioning at Gyeong-gwan Station to maintain student cover.
+- Chief Lieutenant delivered the compiled interrogation dossiers (now saved in Case Files).
+- Key inconsistencies flagged: Siwoo's muddy boots (~01:05), Dohyeon's unlocked back gate, and Moon refusing to share his exact departure time.
