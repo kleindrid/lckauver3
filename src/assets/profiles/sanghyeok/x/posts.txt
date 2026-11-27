@@ -1,0 +1,6 @@
+# Lee Sanghyeok — X (Twitter) Posts
+# Add new posts separated by ---
+# Drop images in this folder and set Image: filename.jpg (or Image: none)
+
+
+

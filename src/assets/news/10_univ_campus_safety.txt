@@ -1,0 +1,12 @@
+id: univ-campus-safety-report
+order: 10
+source: ggu.ac.kr · University Campus Safety Report
+headline: CAMPUS SAFETY BULLETIN: PATROL EXPANSION COVERING GYEONG-GWAN UNIVERSITY QUAD, DORM 304 & ALL CAMPUS FLATS
+byline: Gyeong-gwan University Student Affairs & Campus Security
+
+---
+heading: ENHANCED ENTRY CONTROLS ACROSS BUILDINGS A, B & C
+text:
+Effective immediately, keycard locks remain engaged 24 hours a day across Dorm 304 and all Campus Flats residential buildings—North Wing (Bldg A), East Courtyard (Bldg B), and Riverside Annex (Bldg C).
+
+Students walking between Humanities Hall, Arts Studio, and Campus Flats after 19:00 are urged to travel in groups or request campus security escorts from the Main Quad kiosk.

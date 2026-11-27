@@ -1,0 +1,79 @@
+# Wangho — X (Twitter) Posts
+# Add new posts separated by ---
+# Drop images in this folder and set Image: filename.jpg (or Image: none)
+
+---
+Chapter: 4, 5, 6
+Time: 16m
+Likes: 890
+Reposts: 264
+Image: none
+Text: The lieutenant had the 2008 files AND the party tapes inside his house, and now both he and his wife are dead. Someone inside this city knows every move the precinct makes.
+Comments:
+dohyeon | Dohyeon | @dohyeon_v | 12m | Careful posting that publicly right now, Wangho. Call me.
+wooje | Wooje | @wooje_z | 9m | Hyung please stay inside, don't go out looking by yourself today.
+
+---
+Chapter: 6
+Time: 12m
+Likes: 430
+Reposts: 48
+Image: none
+Text: Walked around the old district block again tonight. Everyone acts like nothing ever happened on these streets, but the dates line up too cleanly to be coincidence.
+Comments:
+jihoon | Jihoon | @jihoonjjjj | 10m | Send me your pin.
+
+---
+Chapter: 4, 5, 6
+Time: 8m
+Likes: 384
+Reposts: 39
+Image: none
+Text: I think I finally found him.
+Comments:
+wooje | Wooje | @wooje_z | 6m | Hyung, pick up my call please. Don't stand out in the Old District alone.
+hyunjun | Hyunjun | @hyunjunchoi | 5m | Wangho answer me on DM.
+
+---
+Chapter: 6
+Time: 5m
+Likes: 615
+Reposts: 84
+Image: none
+Text: Grr I know it's him, just let me prove it.
+Comments:
+dohyeon | Dohyeon | @dohyeon_v | 3m | whats going on?
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 3d
+Likes: 9
+Reposts: 1
+Image: none
+Text: Passed the old market alley on my walk back from the library and stood there longer than I meant to. Funny how a whole neighborhood moves on while one date stays stuck in your head.
+Comments:
+wooje | Wooje | @wooje_z | 3d | Hyung where are you? Let's get hot stew together tonight so you aren't walking alone.
+dohyeon | Dohyeon | @dohyeon_v | 3d | Call me if you want a ride back.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 5d
+Likes: 8
+Reposts: 0
+Image: none
+Text: Picked up Wooje's cold medicine and left extra snacks on Hyunjun's desk since neither of them remembers to eat during midterms. Ping me if anybody  needs anything from the store.
+Comments:
+hyunjun | Hyunjun | @hyunjunchoi | 5d | Hyung seriously thank you, I didn't even notice it was past 9 PM
+wooje | Wooje | @wooje_z | 5d | You're the best hyung ever :( wait up for me after your evening seminar!
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 8d
+Likes: 7
+Reposts: 0
+Image: none
+Text: Can't sleep again, so I'm finishing the rest of Jihoon's late-night takeaway with him in the courtyard. Glad at least my friends never let a night get too quiet.
+Comments:
+jihoon | Jihoon | @jihoonjjjj | 8d | you literally ate half my dumplings
+
+

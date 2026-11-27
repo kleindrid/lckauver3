@@ -1,0 +1,91 @@
+# Voice Memos Script — Chapter 5 Riverside Bistro Meeting
+# Each line reveals at `atSeconds` while Voice Memos is actively recording.
+
+id: chapter5_bistro
+title: Riverside Bistro — Corner Booth
+date: Oct 25 · 21:15
+
+---
+speaker: Han Wangho
+atSeconds: 1
+text: Hi… I wasn't sure if you would come…
+
+---
+speaker: Lee Sanghyeok
+atSeconds: 6
+text: I read Inspector Kang's encrypted briefing. He vouched for you.
+
+---
+speaker: Han Wangho
+atSeconds: 12
+text: Well, yes. He took care of me when my parents died, he helped everyone uncover the case in 2008, this time won't be different.
+
+---
+speaker: Lee Sanghyeok
+atSeconds: 19
+text: Hm… Do you have any information? Why did you want to meet?
+
+---
+speaker: Han Wangho
+atSeconds: 21
+text: I've been digging into the 2008 case files again. The killer took my baby brother somewhere. Then they killed her and no one has a trace of where he could’ve been. I’ve been searching for him for years. 
+
+---
+speaker: Lee Sanghyeok
+atSeconds: 28
+text: I know that. 
+
+---
+speaker: Han Wangho
+atSeconds: 30
+text: Thinking about the ages. If my brother survived, he would be around twenty right now, the exact same age as the university kids caught up in this mess.
+
+---
+speaker: Han Wangho
+atSeconds: 37
+text: Look at who the killer is targeting and who is being framed. Someone from 2008 is finishing what they started, or using the children left behind as pawns.
+
+---
+speaker: Lee Sanghyeok
+atSeconds: 45
+text: You think the killer is someone linked to the original Killer? Or that someone connected to your brother is involved in Minhyung's murder?
+
+---
+speaker: Han Wangho
+atSeconds: 50
+text: Both. Inspector Kang told me you're undercover inside Dorm 304, so you have eyes where the precinct can't reach. Watch the people around you closely, especially anyone with missing years in their background or ties to the old district.
+
+---
+speaker: Lee Sanghyeok
+atSeconds: 58
+text: That's still speculation, Wangho. Do you actually have any new information?
+
+---
+speaker: Han Wangho
+atSeconds: 63
+text: I've lived in Gyeong-gwan my entire life. I know almost every family in this town, and I can vouch for whose bloodlines and ties are genuine and who suddenly showed up with no family links anywhere, or is actively hiding where they came from.
+
+---
+speaker: Han Wangho
+atSeconds: 72
+text: Also, you should go after Kim Hyukkyu. He lost his mother and older sister in 2008, and he's never stopped digging into the case. If you press him, he won't hesitate to give you everything he knows.
+
+---
+speaker: Lee Sanghyeok
+atSeconds: 80
+text: I can't just knock on his door and interrogate him. I can't break my cover like that.
+
+---
+speaker: Han Wangho
+atSeconds: 88
+text: You're right… it's too dangerous. Someone who can effortlessly break into a police lieutenant's house and murder him won't hesitate to kill you the second they suspect who you really are.
+
+---
+speaker: Lee Sanghyeok
+atSeconds: 94
+text: But I guess… If you’re willing to help…
+
+---
+speaker: Unknown Voice
+atSeconds: 98
+text: Wangho hyung?! Wait—why didn't you tell me you were here?!

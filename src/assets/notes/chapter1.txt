@@ -1,0 +1,46 @@
+chapter: 1
+
+---
+title: Resident File #01 — Choi Hyunjun
+updatedAt: Oct 22 · 03:45
+body: DORM 304 RESIDENT PROFILE
+Name: Hyunjun · Room: 304-A · Status: University Student
+Age: 25 ??
+Not from here. 
+
+Daily Routine:
+- Rarely leaves his room before noon; keeps curtains drawn and checks the front latch repeatedly.
+- Severe anxiety spikes during the day and especially during night.
+
+Observations:
+- Avoids group dinners.
+- I heard the other dormmates saying he is always skipping classes.
+
+---
+title: Resident File #02 — Moon
+updatedAt: Oct 22 · 03:30
+body: DORM 304 RESIDENT PROFILE
+Name: Moon · Room: 304-B · Status: University Student
+
+Daily Routine:
+- Wakes up early, drinks black coffee in the kitchen while watching everyone entering and leaving the hallway.
+- Rarely misses a late-night hallway check and keeps notes on his roommates' schedules.
+
+Observations:
+- Nothing to share yet.
+
+---
+title: Resident File #03 — Lee Minhyung
+updatedAt: Oct 22 · 03:15
+body: DORM 304 RESIDENT PROFILE
+Name: Lee Minhyung · Room: 304-C · Status: University Student
+Age: 24
+
+Daily Routine:
+- Calm and composed; cooks late-night meals and verifies the downstairs windows are latched before sleeping.
+- Leaves early for morning lectures and returns punctually before the sunset.
+
+Observations:
+- Keeps a neat desk with old Gyeong-gwan transit maps; polite to everyone, though hard to read.
+- Never visibly panics during neighborhood alerts.
+

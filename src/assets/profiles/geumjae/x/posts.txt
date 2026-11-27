@@ -1,0 +1,51 @@
+# Geumjae — X (Twitter) Posts
+# Add new posts separated by ---
+# Drop images in this folder and set Image: filename.jpg (or Image: none)
+
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 1h
+Likes: 29
+Reposts: 2
+Image: none
+Text: Just moved into and my neighbor keeps staring at me. Creeps.
+
+---
+
+Chapter: 4, 5, 6
+Time: 29m
+Likes: 41
+Reposts: 5
+Image: none
+Text: Police sirens outside since 6 AM and now they’re saying the lead detective and his wife were killed at home. I just moved here—what did I walk into?
+
+---
+
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 3d
+Likes: 3
+Reposts: 0
+Image: none
+Text: Unpacking boxes and my mom already called twice asking if the door lock works properly.
+
+---
+
+Chapter: 1, 2, 3, 4, 5, 6
+Time: 5d
+Likes: 2
+Reposts: 0
+Image: none
+Text: Freshman orientation paperwork done. Still don't know anybody in this town yet.
+
+---
+
+Chapter: 7
+Time: 1d
+Likes: 2
+Reposts: 0
+Image: none
+Text: made some friends at class :) altho, my mom wants to leave the city again.
+Comments:
+hyunjun | Hyunjun | @hyunjunchoi | 20h | oh welcome there! 
+ghost | jinnie | @europapa | 20h | I sent you a dm!! I need your number for the gc
+
+

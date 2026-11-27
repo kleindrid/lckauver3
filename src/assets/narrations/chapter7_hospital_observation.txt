@@ -1,0 +1,55 @@
+# Chapter 7 — Hospital Hallway Surveillance (Gyeong-gwan General Hospital)
+
+id: narration-ch7-hospital-observation
+chapter: 7
+title: Hospital Hallway 
+location: Gyeong-gwan General Hospital
+dateTime: Tue, Oct 27 · 19:00
+summary: Waiting outside Geumjae's blood draw room with Wangho, Sanghyeok spots known suspects.
+
+---
+kind: narration
+text: As Geumjae is called into the blood draw room, Wangho stands in a corner of the corridor, visibly restless, checking his phone every five seconds.
+
+---
+kind: narration
+text: Sanghyeok uses Wangho’s anxiety as the perfect excuse to stand near the glass doors bridging the main lobby and the emergency wing, looking as though he is merely "keeping watch" over the hallway for safety.
+
+---
+kind: narration
+text: Through the reflection in the glass, Sanghyeok catches a flash of movement. Someone tries to duck behind a display pillar stacked with medical brochures in the outpatient area.
+
+---
+kind: narration
+text: Adjusting his angle without turning his head abruptly, he recognizes Wooje. The boy has his hood pulled up and shoulders hunched, pretending to fiddle with the coffee machine. Yet, the detail that jumps out at Sanghyeok is his outrageously expensive designer athletic jacket, a limited-edition piece with distinctive embroidery along the sleeve.
+
+---
+kind: narration
+text: Sanghyeok doesn't stare at Wooje for more than two seconds so he won't raise suspicion. Instead, he takes one quiet step back into the shadow of a concrete pillar, watching to see whether Wooje came to tail Wangho, is waiting for someone else, or is acting as a lookout.
+
+---
+kind: narration
+text: To avoid drawing Wooje’s attention, Sanghyeok subtly shifts positions, pretending to walk over to the emergency counter for a cup of water. Along that path, his line of sight crosses the ER pharmacy and triage desk.
+
+---
+kind: narration
+text: Standing in one of the side lines is Son Siwoo. His demeanor clashes completely with the quiet clinic around him; visibly jittery, glancing repeatedly over his shoulders, and tapping his foot against the tile.
+
+---
+kind: narration
+text: While filling a disposable cup, Sanghyeok watches Siwoo’s exchange with the pharmacy clerk over his shoulder. Siwoo slides a crumpled prescription across the counter along with an awkward handful of money, wrinkled bills mixed with loose change.
+
+---
+kind: narration
+text: The clerk examines the slip suspiciously, shakes his head no, and points straight to a missing signature required before any controlled medication can be released.
+
+---
+kind: narration
+text: Siwoo tries to push more bills forward, but the clerk still doesn’t accept it. Before security can step in, he snatches the crumpled prescription back in a rush. Bumping hard into Sanghyeok on his way out without bothering to apologize or look back.
+
+
+---
+kind: narration
+text: Returning to the corridor, Sanghyeok rests a calm hand on Wangho's shoulder with a simple word of reassurance, while his other hand stays slipped inside his coat pocket, discreetly typing a quick note on his phone as he catches a covert shot of Wooje's embroidered jacket slipping out through the automatic doors.
+
+

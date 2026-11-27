@@ -1,0 +1,82 @@
+# Jaehyuk — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below. Separate posts with ---
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Seongnam Neighborhood
+Time: 400 DAYS AGO
+Likes: 241
+Saved: false
+Image: /assets/aistudio/jaehyukpost1_8101c110.jpg
+Palette: #022c22, #047857, #34d399
+Caption: How strange.
+Comments:
+suhwan | Suhwan | suhwan.p | 400d | <3
+
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: 
+Time: 200 DAYS AGO
+Likes: 309
+Saved: false
+Image: /assets/aistudio/jaehyukpost2_b71a93e6.jpg
+Palette: #064e3b, #022c22, #6ee7b7
+Caption: Thank  you, I will miss you all.
+Comments:
+ghost | Jimin | shinjimin98 | 200d | Still owe you dinner before you disappear again.
+
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Old Stairwell
+Time: 16 DAYS AGO
+Likes: 184
+Saved: false
+Image: /assets/aistudio/jaehyukpost2_115db400.jpg
+Palette: #18181b, #27272a, #71717a
+Caption: Imagine falling off there.
+Comments:
+suhwan | Suhwan | suhwan.p | 16d | wtf hyung
+mingyu | Mingyu | lastfmrobbott | 16d | Please don't walk down stairs like that in the dark!!
+jihoon | Jihoon | jihoonjjjj | 15d | Where do you even find buildings like this.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Gyeong-gwan Rail Crossing
+Time: 29 DAYS AGO
+Likes: 217
+Saved: false
+Image: /assets/aistudio/jaehyukpost3_3a2bf752.jpg
+Palette: #09090b, #27272a, #a16207
+Caption: Late. Always. Late
+Comments:
+jihoon | Jihoon | jihoonjjjj | 29d | Sounds like you.
+mingyu | Mingyu | lastfmrobbott | 28d | Twtf hyung
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Back Alley Wall
+Time: 16 DAYS AGO
+Likes: 263
+Saved: false
+Image: /assets/aistudio/jaehyukpost4_9b3e2322.jpg
+Palette: #1c1917, #44403c, #a8a29e
+Caption: Shortcut.
+Comments:
+suhwan | Suhwan | suhwan.p | 16d | heyyyyy no posting me
+mingyu | Mingyu | lastfmrobbott | 16d | Wait why are you guys taking the back alleys again lol
+jihoon | Jihoon | jihoonjjjj | 15d | Good way to get jumped.
+
+---
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Old District Perimeter
+Time: 22 DAYS AGO
+Likes: 198
+Saved: false
+Image: /assets/aistudio/jaehyukpost5_66f3370e.jpg
+Palette: #09090b, #18181b, #52525b
+Caption: is it? 
+Comments:
+jihoon | Jihoon | jihoonjjjj | 22d | thats creepyyy
+mingyu | Mingyu | lastfmrobbott | 21d | Check your DMs!! Sent you the new demo track.

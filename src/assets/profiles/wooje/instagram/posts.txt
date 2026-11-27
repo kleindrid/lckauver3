@@ -1,0 +1,14 @@
+# Wooje — Instagram Posts
+# Edit Caption (or Description), Likes, and Comments below.
+# Comment format: accountId | Author Name | ig_handle | time | Comment text
+
+Chapter: 1, 2, 3, 4, 5, 6
+Location: Old District Bistro Terrace
+Time: 12 DAYS AGO
+Likes: 86
+Saved: false
+Image: /assets/aistudio/woojepost1_d0015f15.jpg
+Palette: #6d28d9, #2e1065, #a78bfa
+Caption: 
+Comments:
+wangho | Wangho | wangho.han | 12d | awwww
